@@ -28,6 +28,5 @@ A new player base will be introduced in the final release.
 If you find any issues, please reach out to me:
 
 Instagram: @t_oneal11  
-GitHub: https://github.com/Quantum-Shadow1
 
-Thank you for testing Mystical Craft!
+*****Thank you for testing Mystical Craft!*****
