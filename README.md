@@ -1,4 +1,5 @@
 ----- Mystical Craft Beta v0.1.5 -----
+*Features*
 Echoite Set includes:
   - Tools
   - Armor
