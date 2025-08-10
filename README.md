@@ -20,11 +20,11 @@ Cryonium Set includes:
   - Some blocks
   - Hint: Look for new ore in cold biomes!
 
-*****This is the first release, with more updates planned!*****
+*****This is the first release, with more updates planned!*****/n
 Future versions will add new enemies, custom biomes, more blocks, armor, tools, and materials.
 A new player base will be introduced in the final release.
 
-*****This is a beta, so bugs are possible!*****
+*****This is a beta, so bugs are possible!*****/n
 If you find any issues, please reach out to me:
 
 Instagram: @t_oneal11  
