@@ -1,4 +1,5 @@
 ----- Mystical Craft Beta v0.1.5 -----
+
 *****How To Install*****
 
 Download and open the Mysticalcraft.mcaddon file. It will open Minecraft and beging the installation
