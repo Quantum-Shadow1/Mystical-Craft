@@ -1,5 +1,10 @@
 ----- Mystical Craft Beta v0.1.5 -----
-*Features*
+*****How To Install*****
+
+Download and open the Mysticalcraft.mcaddon file. It will open Minecraft and beging the installation
+
+*****Features*****
+
 Echoite Set includes:
   - Tools
   - Armor
