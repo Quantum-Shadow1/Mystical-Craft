@@ -2,7 +2,7 @@
 
 *****How To Install*****
 
-Download and open the Mysticalcraft.mcaddon file. It will open Minecraft and beging the installation
+Download and open the MysticalCraftPack.mcaddon file. It will open Minecraft and beging the installation
 
 *****Features*****
 
