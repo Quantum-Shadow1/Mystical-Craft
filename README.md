@@ -5,19 +5,19 @@
 *****Features*****
 
 Armor/Tools/Materials
-  Echoite armor, tool, and material set
-  Infernium armor, tool, and material set
-  Cryonium armor, tool, and material set
+  -Echoite armor, tool, and material set
+  -Infernium armor, tool, and material set
+  -Cryonium armor, tool, and material set
 
 New Biomes
-  Skulk Plains Biome
-  Skulk Mountain Biome
-  Volcanic Biome
-  Molten Cave Biome
-  Scorche Plains Biome
-  Frozen Mountain Biome
-  Frozen Cave Biome
-  Frozen Dunes Biome
+  -Skulk Plains Biome
+  -Skulk Mountain Biome
+  -Volcanic Biome
+  -Molten Cave Biome
+  -Scorche Plains Biome
+  -Frozen Mountain Biome
+  -Frozen Cave Biome
+  -Frozen Dunes Biome
 
 *****This is the first release, with more updates planned!*****
 
