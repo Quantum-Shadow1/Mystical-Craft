@@ -1,8 +1,6 @@
------ Mystical Craft Beta v0.1.5 -----
+----- Mystical Craft Beta v0.2.0 -----
 
-*****How To Install*****
-
-Download and open the MysticalCraftPack.mcaddon file. It will open Minecraft and beging the installation
+*****This Version Is Not Publicly Avilable Yet*****
 
 *****Features*****
 
