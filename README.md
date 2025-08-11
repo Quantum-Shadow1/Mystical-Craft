@@ -4,14 +4,12 @@
 
 *****Features*****
 
-Armor/Tools/Materials
-
+Armor/Tools/Materials:
   -Echoite armor, tool, and material set
   -Infernium armor, tool, and material set
   -Cryonium armor, tool, and material set
 
-New Biomes
-
+New Biomes:
   -Skulk Plains Biome
   -Skulk Mountain Biome
   -Volcanic Biome
