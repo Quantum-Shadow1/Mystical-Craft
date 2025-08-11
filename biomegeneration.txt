@@ -1,0 +1,70 @@
+--Mystical craft(0.2.0)--
+  --Echos From Beyond--
+    -Add a skulk surface biome
+      -The skulk has taken over the surface world, listening for any disturbances as it
+      attempts to take over the lands around it
+
+      -Skulk Grass
+
+    -Add a skulk mountain biome
+      -The skulk has over taken the mountains. It reaches high in the sky trying to
+      have its screams heard across the world.
+    
+  --Fire and Ice--
+    -Add a volcanic biome
+      A land where deathwishes come ture filled with bones from
+      daring adventures laying in the valley below. This volcanic land
+      will have you begging for help from the gods.
+
+      blocks:
+      -Volcanic ash which falls like sand
+
+    -Add a molten cave biome
+      -The life in this cave has lived in these hot tempatures for thousands of years.
+      Due to the heat they have eveolved to burn off all their extra energy. Be careful
+      where you step
+
+      -Molten Moss
+      -Molten Vines
+      -Schorched Stone
+      -Blazing Geode
+
+    -Add a schorced landscape biome
+      -It seems as if a huge heatwave wentover this land, causing all the life
+      to burn and die. It's a wonder if anyone could get any resources here.
+
+      -Scorched Grass
+      -Molten Grass
+
+    -Add a Iced mountain biome
+      -A land frozen so long every drop of rain turned into another layer of ice on this mountain.
+      Be caustions trying to reach its peak as it's very slippery.
+
+      -Frozen Snow
+
+    -Add a Frozen cave biome
+      -The life in this cave has learned to use the cold so it can live for ages. Due to the freezing
+      tempatures the life in the cave can go in a deepsleep and live for hundreds of years. They are filled
+      with energies which make the glow a frozen blue.
+
+      -Iced Stone
+      -Frozen Moss
+      -Frozen Vines
+      -Frozen Geode
+
+    -Add a Ice hills biome
+      -I looks like this was once a desert that has frozen over. The big hills of snow and ice
+      remind you of what that warm yellow land felt like one time.
+
+--Mystical craft(0.2.0)--
+  Blocks:
+    -New Skulk stone set
+    -New Schorched Stone set
+    -New Frozen Stone set
+
+    -New Skulk Wood set
+    -New burnt Wood set
+    -New Frozen Wood set
+
+  Functions:
+    -make it so certain blocks burn you, and others slow you

@@ -1,0 +1,202 @@
+Version (0.1.5)
+  Mystical Craft Sub-Packs:
+    --Echos From Beyond--
+      The deep dark spreads across your world, so to combat it
+      you learn to make new echoite gear. This gear is better than
+      netherite and will help you take back your world.
+
+    --Fire & Ice--
+      The Pressure from extreame tempatures has produced rare
+      crystals in your world, which are as strong as iron. They
+      can make Cryonium and Infernium gear.
+
+    Armor:
+      --Echos From Beyond--
+      Echoite helmet
+      Echoite chestplate
+      Echoite leggings
+      Echoite boots
+
+      --Fire & Ice--
+      Cryonium helmet
+      Cryonium chestplate
+      Cryonium leggings
+      Cryonium boots
+      Infernium helmet
+      Infernium chestplate
+      Infernium leggings
+      Infernium boots
+
+
+
+    Tools:
+      --Echos From Beyond--
+      Echoite sword
+      Echoite pickaxe
+      Echoite axe
+      Echoite shovel
+      Echoite hoe
+
+      --Fire & Ice--
+      Cryonium sword
+      Cryonium pickaxe
+      Cryonium axe
+      Cryonium shovel
+      Cryonium hoe
+      Infernium sword
+      Infernium pickaxe
+      Infernium axe
+      Infernium shovel
+      Infernium hoe
+
+
+    Materials:
+      --Echos From Beyond--
+      Echoite Scrap
+      Echoite ingot
+      Echoite dust
+      Echoite nugget
+
+      --Fire & Ice--
+      Raw Cryonium
+      Cryonium Ingots
+      Raw Infernium
+      Infernium Ingots
+       
+    World Generation:
+      Blocks:
+        --Echos From Beyond--
+        Echoite Ore
+        Deepslate Echoite Ore
+        Echoite Dust Block 
+        Block of Echoite
+
+        --Fire & Ice--
+        Cryonium Ore
+        Deepslate Cryonium Ore 
+        Infernium Ore
+        Deepslate Infernium Ore
+        Nether Infernium Ore
+        Block of Cryonium
+        Block of Infernium
+        
+      Ore Generation:
+        --Echos From Beyond--
+          Echoite Ore:
+            Can spawn in 'deep_dark'
+
+        --Fire & Ice--
+          Cryonium Ore:
+            Can spawn in 'frozen_ocean'
+            Can spawn in 'frozen_peaks'
+            Can spawn in 'frozen_river'
+            Can spawn in 'snowy_slopes'
+            Can spawn in 'cold_ocean'
+            Can spawn in 'cold_beach'
+            Can spawn in 'cold_tiga'
+            Can spawn in 'cold_tiga_hills'
+            Can spawn in 'cold_tiga_mutated'
+            Can spawn in 'ice_mountains'
+            Can spawn in 'ice_plains'
+            Can spawn in 'ice_plains_spikes'
+
+          Infernium Ore:
+            Can spawn in 'desert'
+            Can spawn in 'desert_hills'
+            Can spawn in 'desert_mutated'
+            Can spawn in 'savanna'
+            Can spawn in 'savanna_mutated'
+            Can spawn in 'savanna_plateau'
+            Can spawn in 'savanna_plateau_mutated'
+            Can spawn in 'mesa'
+            Can spawn in 'mesa_bryce'
+            Can spawn in 'mesa_plateau'
+            Can spawn in 'mesa_plateau_mutated'
+            Can spawn in 'mesa_plateau_stone'
+            Can spawn in 'mesa_plateau_stone_mutated'
+            Can spawn in 'nether'
+
+
+    General:
+      recipies:
+        Armor:
+          --Echos From Beyond--
+          Add recipie for Echoite helmet
+          Add recipie for Echoite chestplate
+          Add recipie for Echoite leggings
+          Add recipie for Echoite boots
+
+          --Fire & Ice--
+          Add shaped recipie for Cryonium helmet
+          Add shaped recipie for Cryonium chestplate
+          Add shaped recipie for Cryonium leggings
+          Add shaped recipie for Cryonium boots
+          Add shaped recipie for Infernium helmet
+          Add shaped recipie for Infernium chestplate
+          Add shaped recipie for Infernium leggings
+          Add shaped recipie for Infernium boots
+
+        Tools:
+          --Echos From Beyond--
+          Add recipie for Echoite sword
+          Add recipie for Echoite pickaxe
+          Add recipie for Echoite axe
+          Add recipie for Echoite shovel
+          Add recipie for Echoite hoe
+
+          --Fire & Ice--
+          Add shaped recipie for Cryonium sword
+          Add shaped recipie for Cryonium pickaxe
+          Add shaped recipie for Cryonium axe
+          Add shaped recipie for Cryonium shovel
+          Add shaped recipie for Cryonium hoe
+          Add shaped recipie for Infernium sword
+          Add shaped recipie for Infernium pickaxe
+          Add shaped recipie for Infernium axe
+          Add shaped recipie for Infernium shovel
+          Add shaped recipie for Infernium hoe
+
+        Miscellaneous:
+          --Echos From Beyond--
+          Add recipie for Echoite scrap
+          Add recipie for Echoite ingot
+          Add recipie for Echoite dust
+          Add recipie for Echoite nugget
+          Add recipie for Echoite block
+          Add recipie for Echoite dust block
+
+          --Fire & Ice--
+          Add shapless recipie for Cryonium Ingots
+          Add smelting recipie for Cryonium Ingots
+          Add shapless recipie for Block of Cryonium
+          Add smelting recipie for Cryonium Inogt from Cryonium Ore
+          Add smelting recipie for Cryonium Ingot from Deepslate Cryonium Ore
+          Add shapless recipie for Infernium Ingots
+          Add smelting recipie for Infernium Ingots
+          Add shapless recipie for Block of Infernium
+          Add smelting recipie for Infernium Ingot from Infernium Ore
+          Add smelting recipie for Infernium Ingot from Deepslate Infernium Ore
+          Add smelting recipie for Infernium Inogt from Nether Infernium Ore
+
+--ISSUES--
+  Adding animation for tools
+    -Play player swing on tool use.
+
+      
+  Add custom block states
+    -This is for slabs, stair, ect..
+
+  Adding new custom item tags
+    --Add a tag for echoite_tier
+    --Add a tag for Infernium_tier
+    --Add a tag for Cryonium_tier
+
+  Making Ores have fortune applied
+    --Echoite Ore
+    --Cryonium Ore
+    --Infernium Ore
+
+  Blocks not being hidden in spectator mode
+    --All blocks
+
+    
