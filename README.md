@@ -4,26 +4,11 @@
 
 *****Features*****
 
-Echoite Set includes:
-  - Tools
-  - Armor
-  - Materials
-  - Some blocks
-  - Hint: Look in the Deep Dark biome for a new ore!
-
-Infernium Set includes:
-  - Tools
-  - Armor
-  - Materials
-  - Some blocks
-  - Hint: Find new ore in warm biomes!
-
-Cryonium Set includes:
-  - Tools
-  - Armor
-  - Materials
-  - Some blocks
-  - Hint: Look for new ore in cold biomes!
+Armor/Tools/Materials
+  Echoite armor, tool, and material set
+  Infernium armor, tool, and material set
+  Cryonium armor, tool, and material set
+  
 
 *****This is the first release, with more updates planned!*****
 
