@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.90",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mysticalcraft:block_of_rose_quartz",
+			"menu_category": {
+				"category": "construction"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 5
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 30
+			},
+			"minecraft:geometry": "geometry.block_of_rose_quartz",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "block_of_rose_quartz",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:map_color": "#ffffff",
+      
+      "tag:minecraft:is_pickaxe_item_destructible": {},
+      "tag:stone": {}
+		}
+	}
+}

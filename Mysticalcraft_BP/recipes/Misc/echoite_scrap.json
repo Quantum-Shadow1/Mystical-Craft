@@ -1,0 +1,31 @@
+{
+"format_version": "1.19",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:echoite_scrap_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "EDE",
+        "DSD",
+        "EDE"
+        ],
+    "key": {
+        "S": {
+            "item": "minecraft:echo_shard"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "E": {
+            "item": "mysticalcraft:echoite_dust"
+        }
+    },
+    "unlock": [
+      { "item": "minecraft:echo_shard" }
+    ],
+    "result": {
+        "item": "mysticalcraft:echoite_scrap"
+        }
+    }
+}

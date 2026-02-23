@@ -1,0 +1,25 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:schorched_stone_bricks_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "BB",
+        "BB"
+        ],
+    "key": {
+        "B": {
+            "item": "mysticalcraft:schorched_stone"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:schorched_stone" }
+    ],
+    "result": {
+        "item": "mysticalcraft:schorched_stone_bricks",
+        "count": 4
+        }
+    }
+}

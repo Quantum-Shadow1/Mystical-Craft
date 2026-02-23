@@ -1,0 +1,25 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:iced_wood_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "LL",
+        "LL"
+       
+        ],
+    "key": {
+        "L": {
+            "item": "mysticalcraft:iced_log"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:iced_log" }
+    ],
+    "result": {
+        "item": "mysticalcraft:iced_wood"
+        }
+    }
+}

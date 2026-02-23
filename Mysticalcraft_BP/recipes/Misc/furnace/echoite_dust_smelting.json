@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mysticalcraft:furnace_echoite_dust_recipe"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "mysticalcraft:echoite_ore"
+    },
+    "output": "mysticalcraft:echoite_dust",
+    "experience": 0.35,
+    "cookingtime": 225
+  }
+}

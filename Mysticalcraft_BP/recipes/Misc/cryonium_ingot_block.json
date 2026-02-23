@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "mysticalcraft:ingot_from_block_of_cryonium_recipe"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "mysticalcraft:block_of_cryonium",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      { "item": "mysticalcraft:block_of_cryonium" }
+    ],
+    "result": {
+      "item": "mysticalcraft:cryonium_ingot",
+      "data": 0,
+      "count": 9
+    }
+  }
+}

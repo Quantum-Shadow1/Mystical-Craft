@@ -1,0 +1,18 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mysticalcraft:sculk_patch_feature"
+    },
+    "count": 24,
+    "replace_rules": [
+      {
+        "places_block": "minecraft:sculk",
+        "may_replace": [
+          "minecraft:grass_block",
+          "minecraft:dirt"
+        ]
+      }
+    ]
+  }
+}

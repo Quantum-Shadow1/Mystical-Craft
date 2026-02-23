@@ -1,0 +1,35 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "mysticalcraft:sculk_rock_scatter_feature_rule",
+      "places_feature": "mysticalcraft:scu_rock_random_feature"
+    },
+    "conditions": {
+      "placement_pass": "surface_pass",
+      "minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:courrupted_mountains"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:courrupted_plains"
+						}
+					]
+				}
+			]
+    },
+    "distribution": {
+      "iterations": 15,
+      "coordinate_eval_order": "zxy",
+      "x": "math.random(0, 1024)",
+      "y": "q.heightmap(v.worldx, v.worldz) - math.random(2, 6)",
+      "z": "math.random(0, 1024)"
+    }
+  }
+}

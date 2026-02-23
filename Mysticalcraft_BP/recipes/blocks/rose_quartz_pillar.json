@@ -1,0 +1,25 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:rose_quartz_pillar_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "Q",
+        "Q"
+        ],
+    "key": {
+        "Q": {
+            "item": "mysticalcraft:block_of_rose_quartz"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:block_of_rose_quartz" }
+    ],
+    "result": {
+        "item": "mysticalcraft:rose_quartz_pillar",
+        "count": 2
+        }
+    }
+}

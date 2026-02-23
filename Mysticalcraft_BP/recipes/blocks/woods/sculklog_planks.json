@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "mysticalcraft:sculk_log_plank_recipe"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "mysticalcraft:sculk_log",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      { "item": "mysticalcraft:sculk_log" }
+    ],
+    "result": {
+      "item": "mysticalcraft:sculk_planks",
+      "data": 0,
+      "count": 4
+    }
+  }
+}

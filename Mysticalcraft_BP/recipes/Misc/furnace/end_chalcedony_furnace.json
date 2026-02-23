@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mysticalcraft:end_chalcedony_furnace_recipe"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "mysticalcraft:ender_chalcedony"
+    },
+    "output": "mysticalcraft:chalcedony",
+    "experience": 0.2,
+    "cookingtime": 200
+  }
+}

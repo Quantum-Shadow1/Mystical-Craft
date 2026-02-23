@@ -1,0 +1,30 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "mysticalcraft:frozen_snow_patch_feature_rule",
+      "places_feature": "mysticalcraft:frozen_snow_patch_feature"
+    },
+    "conditions": {
+      "placement_pass": "surface_pass",
+      "minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:ice_dunes"
+						}
+					]
+				}
+			]
+    },
+    "distribution": {
+      "iterations": 8,
+      "coordinate_eval_order": "zxy",
+      "x": "math.random(0, 32)",
+      "y": "q.heightmap(v.worldx, v.worldz)",
+      "z": "math.random(0, 32)"
+    }
+  }
+}

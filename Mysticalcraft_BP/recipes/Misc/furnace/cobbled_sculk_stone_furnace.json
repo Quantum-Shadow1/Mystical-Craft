@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mysticalcraft:cobbled_sculk_stone_furnace"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "mysticalcraft:cobbled_sculk_stone"
+    },
+    "output": "mysticalcraft:sculk_stone",
+    "experience": 0.1,
+    "cookingtime": 150
+  }
+}

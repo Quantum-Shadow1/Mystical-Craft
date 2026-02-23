@@ -1,0 +1,29 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mysticalcraft:emerald_ore_feature"
+    },
+    "count": 4,
+    "replace_rules": [
+      {
+      "places_block": "mysticalcraft:iced_emerald_ore",
+      "may_replace": [
+        "mysticalcraft:iced_stone"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:schorched_emerald_ore",
+      "may_replace": [
+        "mysticalcraft:schorched_stone"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:sculk_emerald_ore",
+      "may_replace": [
+        "mysticalcraft:sculk_stone"
+      ]
+      }
+    ]
+  }
+}

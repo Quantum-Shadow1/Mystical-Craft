@@ -1,0 +1,63 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "mysticalcraft:volcanic_mountains"
+    },
+    "components": {
+      "minecraft:creature_spawn_probability": {
+        "probability": 0.6
+      },
+      "minecraft:climate": {
+        "downfall": 0.1,
+        "snow_accumulation": [0.0, 0.25],
+        "temperature": 0.9
+      },
+      "minecraft:overworld_height": {
+        "noise_params": [35, 1.5]
+      },
+      "minecraft:replace_biomes": {
+          "replacements": 
+            [
+              {
+                "dimension": "minecraft:overworld",
+                "targets": ["minecraft:stony_peaks"],
+                  "amount": 0.33,
+                  "noise_frequency_scale": 0.125 
+              },
+              {
+                "dimension": "minecraft:overworld",
+                "targets": ["minecraft:jagged_peaks"],
+                  "amount": 0.33,
+                  "noise_frequency_scale": 0.125 
+              },
+              {
+                "dimension": "minecraft:overworld",
+                "targets": ["minecraft:extreme_hills"],
+                  "amount": 0.33,
+                  "noise_frequency_scale": 0.125 
+              }
+            ]
+          },
+      "minecraft:surface_builder": {
+        "builder": {
+          "type": "minecraft:overworld",
+          "top_material": "mysticalcraft:volcanic_ash",
+          "mid_material": "mysticalcraft:schorched_stone",
+          "foundation_material": "mysticalcraft:schorched_stone",
+          "sea_floor_material": "mysticalcraft:schorched_stone",
+          "sea_floor_depth": 1,
+          "sea_material": "minecraft:water"
+        }
+      },
+      "minecraft:mountain_parameters": {
+        "steep_material_adjustment": {
+          "material": "mysticalcraft:schorched_stone"
+        }
+      },
+      "minecraft:tags": {
+        "tags": ["mysticalcraft:volcanic_mountains, minecraft:stony_peaks, minecraft:jagged_peaks"]
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mysticalcraft:charred_planks_crafting_table_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "PP",
+      "PP"
+    ],
+    "key": {
+      "P": {
+        "item": "mysticalcraft:charred_planks"
+      }
+    },
+    "unlock": [
+      {"item": "mysticalcraft:charred_planks"}
+    ],
+    "result": {
+      "item": "minecraft:crafting_table"
+    }
+  }
+}

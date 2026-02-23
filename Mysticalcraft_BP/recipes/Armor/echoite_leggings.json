@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "mysticalcraft:echoite_leggings_recipe"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:netherite_leggings" },
+      { "item": "mysticalcraft:echoite_ingot" },
+      { "item": "minecraft:netherite_upgrade_smithing_template" }
+    ],
+    "unlock": [
+      { "item": "mysticalcraft:echoite_ingot" }
+    ],
+    "result": { "item": "mysticalcraft:echoite_leggings" }
+  }
+}

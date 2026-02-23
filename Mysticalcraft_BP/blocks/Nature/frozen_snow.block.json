@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.90",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mysticalcraft:frozen_snow",
+			"menu_category": {
+				"category": "nature"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 30
+			},
+			"minecraft:geometry": "geometry.frozen_snow",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "frozen_snow",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:map_color": "#ffffff",
+			"minecraft:loot": "loot_tables/blocks/frozen_snow.json",
+
+      "tag:minecraft:is_shovel_item_destructible": {}
+		}
+	}
+}

@@ -1,0 +1,25 @@
+
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "mysticalcraft:chisled_frozen_sandstone_sc_recipe"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "priority": 2,
+    "ingredients": [
+      {
+        "item": "mysticalcraft:frozen_sandstone",
+        "data": 5
+      }
+    ],
+    "result": {
+      "item": "mysticalcraft:chisled_frozen_sandstone",
+      "data": 4,
+      "count": 1
+    }
+  }
+  
+}

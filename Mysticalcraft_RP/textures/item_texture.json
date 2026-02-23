@@ -1,0 +1,154 @@
+{
+	"texture_data": {
+		"dragon_dust": {
+			"textures": "textures/items/dragon_dust.png"
+		},
+		"chalcedony": {
+			"textures": "textures/items/chalcedony.png"
+		},
+		"rose_quartz": {
+			"textures": "textures/items/rose_quartz.png"
+		},
+		"voided_shard": {
+			"textures": "textures/items/voided_shard.png"
+		},
+		"dragonite_scrap": {
+			"textures": "textures/items/dragonite_scrap.png"
+		},
+		"dragonite_ingot": {
+			"textures": "textures/items/dragonite_ingot.png"
+		},
+		"dragonite_hoe": {
+			"textures": "textures/items/dragonite_hoe.png"
+		},
+		"dragonite_shovel": {
+			"textures": "textures/items/dragonite_shovel.png"
+		},
+		"dragonite_axe": {
+			"textures": "textures/items/dragonite_axe.png"
+		},
+		"dragonite_pickaxe": {
+			"textures": "textures/items/dragonite_pickaxe.png"
+		},
+		"dragonite_sword": {
+			"textures": "textures/items/dragonite_sword.png"
+		},
+		"dragonite_boots": {
+			"textures": "textures/items/dragonite_boots.png"
+		},
+		"dragonite_leggings": {
+			"textures": "textures/items/dragonite_leggings.png"
+		},
+		"dragonite_chestplate": {
+			"textures": "textures/items/dragonite_chestplate.png"
+		},
+		"dragonite_helmet": {
+			"textures": "textures/items/dragonite_helmet.png"
+		},
+		"cryonium_shovel": {
+			"textures": "textures/items/cryonium_shovel.png"
+		},
+		"cryonium_hoe": {
+			"textures": "textures/items/cryonium_hoe.png"
+		},
+		"cryonium_axe": {
+			"textures": "textures/items/cryonium_axe.png"
+		},
+		"cryonium_pickaxe": {
+			"textures": "textures/items/cryonium_pickaxe.png"
+		},
+		"cryonium_sword": {
+			"textures": "textures/items/cryonium_sword.png"
+		},
+		"cryonium_ingot": {
+			"textures": "textures/items/cryonium_ingot.png"
+		},
+		"infernium_hoe": {
+			"textures": "textures/items/infernium_hoe.png"
+		},
+		"infernium_shovel": {
+			"textures": "textures/items/infernium_shovel.png"
+		},
+		"infernium_axe": {
+			"textures": "textures/items/infernium_axe.png"
+		},
+		"infernium_pickaxe": {
+			"textures": "textures/items/infernium_pickaxe.png"
+		},
+		"infernium_sword": {
+			"textures": "textures/items/infernium_sword.png"
+		},
+		"infernium_ingot": {
+			"textures": "textures/items/infernium_ingot.png"
+		},
+		"cryonium_boots": {
+			"textures": "textures/items/cryonium_boots.png"
+		},
+		"cryonium_leggings": {
+			"textures": "textures/items/cryonium_leggings.png"
+		},
+		"cryonium_chestplate": {
+			"textures": "textures/items/cryonium_chestplate.png"
+		},
+		"cryonium_helmet": {
+			"textures": "textures/items/cryonium_helmet.png"
+		},
+		"infernium_boots": {
+			"textures": "textures/items/infernium_boots.png"
+		},
+		"infernium_helmet": {
+			"textures": "textures/items/infernium_helmet.png"
+		},
+		"infernium_leggings": {
+			"textures": "textures/items/infernium_leggings.png"
+		},
+		"infernium_chestplate": {
+			"textures": "textures/items/infernium_chestplate.png"
+		},
+		"echoite_scrap": {
+			"textures": "textures/items/echoite_scrap.png"
+		},
+		"echoite_dust": {
+			"textures": "textures/items/echoite_dust.png"
+		},
+		"echoite_nugget": {
+			"textures": "textures/items/echoite_nugget.png"
+		},
+		"echoite_ingot": {
+			"textures": "textures/items/echoite_ingot.png"
+		},
+		"echoite_hoe": {
+			"textures": "textures/items/echoite_hoe.png"
+		},
+		"echoite_shovel": {
+			"textures": "textures/items/echoite_shovel.png"
+		},
+		"echoite_axe": {
+			"textures": "textures/items/echoite_axe.png"
+		},
+		"echoite_pickaxe": {
+			"textures": "textures/items/echoite_pickaxe.png"
+		},
+		"echoite_sword": {
+			"textures": "textures/items/echoite_sword.png"
+		},
+		"echoite_boots": {
+			"textures": "textures/items/echoite_boots.png"
+		},
+		"echoite_leggings": {
+			"textures": "textures/items/echoite_leggings.png"
+		},
+		"echoite_chestplate": {
+			"textures": "textures/items/echoite_chestplate.png"
+		},
+		"echoite_helmet": {
+			"textures": "textures/items/echoite_helmet.png"
+		},
+		"raw_cryonium": {
+			"textures": "textures/items/raw_cryonium.png"
+		},
+		"raw_infernium": {
+			"textures": "textures/items/raw_infernium.png"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:cut_frozen_sandstone_recipie"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "SS",
+        "SS"
+        ],
+    "key": {
+        "S": {
+            "item": "mysticalcraft:frozen_sandstone"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:frozen_sand" }
+    ],
+    "result": {
+        "item": "mysticalcraft:cut_frozen_sandstone",
+        "count": 4
+        }
+    }
+}

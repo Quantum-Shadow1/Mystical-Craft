@@ -1,0 +1,17 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:structure_template_feature": {
+    "description": {
+      "identifier": "mysticalcraft:scu_rock_nineteen_feature"
+    },
+
+    "structure_name": "mystructure:Scu_Rock_19",
+
+    "facing_direction": "random",
+    "constraints": {
+      "unburied": {},
+      "grounded": {}
+    },
+    "adjustment_radius": 8
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "mysticalcraft:copper_ore_feature_rule",
+      "places_feature": "mysticalcraft:copper_ore_feature"
+    },
+    "conditions": {
+      "placement_pass": "underground_pass",
+      "minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:glacial_mountains"
+						},
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "mysticalcraft:ice_dunes"
+            },
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "mysticalcraft:schorched_plains"
+            },
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "mysticalcraft:volcanic_mountains"
+            },
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:corrupted_mountains"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:courrupted_plains"
+						}
+					]
+				}
+			]
+    },
+    "distribution": {
+      "iterations": 4,
+      "coordinate_eval_order": "zxy",
+      "x": "math.random(0, 64)",
+      "y": "math.random(-16, 112)",
+      "z": "math.random(0, 64)"
+    }
+  }
+}

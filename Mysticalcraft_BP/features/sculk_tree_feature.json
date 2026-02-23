@@ -1,0 +1,37 @@
+
+{
+  "format_version": "1.13.0",
+  "minecraft:tree_feature": {
+    "description": {
+        "identifier": "mysticalcraft:sculk_tree_feature"
+    },
+
+    "base_block": [
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:farmland",
+      "minecraft:sculk"],
+
+    "may_replace": ["minecraft:air"],
+
+    "trunk": {
+        "trunk_block": "mysticalcraft:sculk_log",
+
+        "trunk_height": [5,7]
+    },
+    "fancy_canopy": {
+        "height": 5,
+        "radius": 4,
+        "leaf_block": "mysticalcraft:sculk_leaves"
+    },
+    "may_grow_through":[
+      "mysticalcraft:sculk_leaves"
+    ],
+    "may_grow_on": [
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "minecraft:farmland",
+    "minecraft:sculk"
+    ]
+  }
+}

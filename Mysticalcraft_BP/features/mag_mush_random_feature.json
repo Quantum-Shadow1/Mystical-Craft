@@ -1,0 +1,50 @@
+{
+    "format_version": "1.13.0",
+
+    "minecraft:weighted_random_feature": {
+        "description": {
+            "identifier": "mysticalcraft:mag_mush_random_feature"
+        },
+
+        "features": [
+            ["mysticalcraft:L_mag_mush_one_feature", 1],
+            ["mysticalcraft:L_mag_mush_two_feature", 1],
+            ["mysticalcraft:L_mag_mush_three_feature", 1],
+            ["mysticalcraft:L_mag_mush_four_feature", 1],
+            ["mysticalcraft:L_mag_mush_five_feature", 1],
+            ["mysticalcraft:L_mag_mush_six_feature", 1],
+            ["mysticalcraft:L_mag_mush_seven_feature", 1],
+            ["mysticalcraft:L_mag_mush_eight_feature", 1],
+
+            ["mysticalcraft:M_mag_mush_one_feature", 3],
+            ["mysticalcraft:M_mag_mush_two_feature", 3],
+            ["mysticalcraft:M_mag_mush_three_feature", 3],
+            ["mysticalcraft:M_mag_mush_four_feature", 3],
+            ["mysticalcraft:M_mag_mush_five_feature", 3],
+            ["mysticalcraft:M_mag_mush_six_feature", 3],
+            ["mysticalcraft:M_mag_mush_seven_feature", 3],
+            ["mysticalcraft:M_mag_mush_eight_feature", 3],
+
+            ["mysticalcraft:S_mag_mush_one_feature", 7],
+            ["mysticalcraft:S_mag_mush_two_feature", 7],
+            ["mysticalcraft:S_mag_mush_three_feature", 7],
+            ["mysticalcraft:S_mag_mush_four_feature", 7],
+            ["mysticalcraft:S_mag_mush_five_feature", 7],
+            ["mysticalcraft:S_mag_mush_six_feature", 7],
+            ["mysticalcraft:S_mag_mush_seven_feature", 7],
+            ["mysticalcraft:S_mag_mush_eight_feature", 7],
+            ["mysticalcraft:S_mag_mush_nine_feature", 7],
+            ["mysticalcraft:S_mag_mush_ten_feature", 7],
+            ["mysticalcraft:S_mag_mush_eleven_feature", 7],
+            ["mysticalcraft:S_mag_mush_twelve_feature", 7],
+            ["mysticalcraft:S_mag_mush_thirteen_feature", 7],
+            ["mysticalcraft:S_mag_mush_fourteen_feature", 7],
+            ["mysticalcraft:S_mag_mush_fifteen_feature", 7],
+            ["mysticalcraft:S_mag_mush_sixteen_feature", 7],
+            ["mysticalcraft:S_mag_mush_seventeen_feature", 7],
+            ["mysticalcraft:S_mag_mush_eighteen_feature", 7],
+            ["mysticalcraft:S_mag_mush_nineteen_feature", 7],
+            ["mysticalcraft:S_mag_mush_twenty_feature", 7]
+        ]
+    }
+}

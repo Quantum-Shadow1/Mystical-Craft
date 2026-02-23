@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mysticalcraft:smooth_chalcedony_furnace_recipe"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "mysticalcraft:block_of_chalcedony"
+    },
+    "output": "mysticalcraft:smooth_chalcedony",
+    "experience": 0.35,
+    "cookingtime": 225
+  }
+}

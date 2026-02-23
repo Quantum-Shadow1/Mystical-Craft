@@ -1,0 +1,29 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mysticalcraft:cryonium_ore_feature"
+    },
+    "count": 8,
+    "replace_rules": [
+      {
+      "places_block": "mysticalcraft:cryonium_ore",
+      "may_replace": [
+        "minecraft:stone"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:deepslate_cryonium_ore",
+      "may_replace": [
+        "minecraft:deepslate"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:iced_cryonium_ore",
+      "may_replace": [
+        "mysticalcraft:iced_stone"
+      ]
+      }
+    ]
+  }
+}

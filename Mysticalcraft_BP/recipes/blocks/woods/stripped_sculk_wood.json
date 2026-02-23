@@ -1,0 +1,25 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:stripped_sculk_wood_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "LL",
+        "LL"
+       
+        ],
+    "key": {
+        "L": {
+            "item": "mysticalcraft:stripped_sculk_log"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:stripped_sculk_log" }
+    ],
+    "result": {
+        "item": "mysticalcraft:stripped_sculk_wood"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Mysticalal Craft Creator Version",
+		"description": "Mysticalal Craft Resource Pack",
+		"uuid": "cba11a3c-201b-4e87-a459-3d6e76abf81e",
+		"version": [1, 1, 0],
+		"min_engine_version": [1, 20, 0]
+	},
+	"metadata": {
+		"authors": ["Shadow_Wrathian"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.1", "1.2.2"],
+			"blockbench_block_wizard": ["1.4.1", "1.5.0", "1.5.1", "1.5.2"],
+			"blockbench_entity_wizard": ["1.7.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Mysticalal Craft",
+			"type": "resources",
+			"uuid": "ec457a2a-13de-46f7-9509-df6a6b682e73",
+			"version": [1, 1, 0]
+		}
+	],
+	"dependencies": [
+		{
+      "description": "This is a required behavior pack for Mysticalal Craft.",
+			"uuid": "5ef66156-a8a9-4b72-8ec9-ba5d5f45d235",
+			"version": [1, 1, 0]
+		}
+	]
+}

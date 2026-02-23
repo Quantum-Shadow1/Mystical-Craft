@@ -1,0 +1,38 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Mysticalal Craft Creator Version",
+		"description": "Mysticalal Craft Behavior Pack",
+		"uuid": "5ef66156-a8a9-4b72-8ec9-ba5d5f45d235",
+		"version": [1, 1, 0],
+		"min_engine_version": [1, 20, 0]
+	},
+	"metadata": {
+		"authors": ["Shadow_Wrathian"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.1", "1.2.2"],
+			"blockbench_block_wizard": ["1.4.1", "1.5.0", "1.5.1"],
+			"blockbench_entity_wizard": ["1.7.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 1, 0],
+			"uuid": "26de32f8-afa7-4274-a26e-bd25a853be71",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"description": "This is a required resource pack for Mysticalal Craft.",
+			"uuid": "cba11a3c-201b-4e87-a459-3d6e76abf81e",
+			"version": [1, 1, 0]
+		},
+		{
+			"description": "This is a required server moduel for Scripting files.",
+			"module_name": "@minecraft/server",
+			"version": "2.0.0"
+		}
+	]
+}

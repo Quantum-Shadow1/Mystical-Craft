@@ -1,0 +1,31 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mysticalcraft:teal_mushroom_block",
+			"menu_category": {
+				"category": "construction"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 30
+			},
+			"minecraft:geometry": "geometry.teal_mushroom_block",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "teal_mushroom_block",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:map_color": "#ffffff",
+		"minecraft:loot": "loot_tables/blocks/teal_mushroom_block.json",
+      "tag:minecraft:is_axe_item_destructible": {}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mysticalcraft:rose_quartz_ore_feature"
+    },
+    "count": 24,
+    "replace_rules": [
+      {
+      "places_block": "mysticalcraft:ender_rose_quartz",
+      "may_replace": [
+        "minecraft:end_stone"
+      ]
+      }
+    ]
+  }
+}

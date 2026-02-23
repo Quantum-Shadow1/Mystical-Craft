@@ -1,0 +1,31 @@
+{
+"format_version": "1.19",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:dragonite_scrap_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "SNS",
+        "NDN",
+        "SNS"
+        ],
+    "key": {
+        "S": {
+            "item": "mysticalcraft:voided_shard"
+        },
+        "D": {
+            "item": "minecraft:dragon_breath"
+        },
+        "N": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:voided_shard" }
+    ],
+    "result": {
+        "item": "mysticalcraft:dragonite_scrap"
+        }
+    }
+}

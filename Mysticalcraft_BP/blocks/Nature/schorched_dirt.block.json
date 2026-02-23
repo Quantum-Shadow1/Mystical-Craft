@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.90",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mysticalcraft:schorched_dirt",
+			"menu_category": {
+				"category": "nature"
+			},
+			"traits": {
+				"minecraft:placement_direction": {
+					"enabled_states": ["minecraft:facing_direction"]
+				}
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 0.1
+			},
+			"minecraft:geometry": "geometry.schorched_dirt",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "schorched_dirt",
+          "texture_random": true,
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:map_color": "#5f4a2b",
+
+      "tag:minecraft:is_shovel_item_destructible": {},
+      "tag:dirt": {}
+		}
+	}
+}

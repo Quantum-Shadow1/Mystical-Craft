@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "mysticalcraft:rose_quartz_bricks_sc_recipe"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "priority": 2,
+    "ingredients": [
+      {
+        "item": "mysticalcraft:block_of_rose_quartz",
+        "data": 5
+      }
+    ],
+    "result": {
+      "item": "mysticalcraft:rose_quartz_bricks",
+      "data": 4,
+      "count": 1
+    }
+  }
+  
+}
