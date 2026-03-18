@@ -1,0 +1,35 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "mysticalcraft:schorched_dirt_feature_rule",
+      "places_feature": "mysticalcraft:schorched_dirt_feature"
+    },
+    "conditions": {
+      "placement_pass": "surface_pass",
+      "minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:schorched_plains"
+						},
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "mysticalcraft:volcanic_mountains"
+            }
+					]
+				}
+			]
+    },
+    "distribution": {
+      "iterations": 2,
+      "coordinate_eval_order": "zxy",
+      "x": "math.random(-4, 4)",
+      "y": "q.heightmap(v.worldx, v.worldz)",
+      "z": "math.random(-4, 4)"
+    }
+  }
+}

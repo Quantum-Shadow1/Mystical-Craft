@@ -1,0 +1,17 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mysticalcraft:end_emerald_ore_feature"
+    },
+    "count": 16,
+    "replace_rules": [
+      {
+      "places_block": "mysticalcraft:ender_emerald_ore",
+      "may_replace": [
+        "minecraft:end_stone"
+      ]
+      }
+    ]
+  }
+}

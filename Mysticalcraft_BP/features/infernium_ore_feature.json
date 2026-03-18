@@ -1,0 +1,35 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mysticalcraft:infernium_ore_feature"
+    },
+    "count": 8,
+    "replace_rules": [
+      {
+      "places_block": "mysticalcraft:infernium_ore",
+      "may_replace": [
+        "minecraft:stone"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:deepslate_infernium_ore",
+      "may_replace": [
+        "minecraft:deepslate"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:nether_infernium_ore",
+      "may_replace": [
+        "minecraft:netherrack"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:schorched_infernium_ore",
+      "may_replace": [
+        "mysticalcraft:schorched_stone"
+      ]
+      }
+    ]
+  }
+}

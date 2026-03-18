@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mysticalcraft:ice_dunes"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#2C4278"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft:fog_ice_mountains"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#2C4278"
+      },
+    "minecraft:biome_music": {
+        "volume_multiplier": 0
+      },
+    "minecraft:foliage_appearance": {
+        "color": "#b8c8bc"
+    },
+    "minecraft:grass_appearance": {
+      "color": "#a8bab0"
+      }
+    }
+
+  }
+}

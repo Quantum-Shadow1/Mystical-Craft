@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "mysticalcraft:echoite_ingots_from_block"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "mysticalcraft:echoite_block",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      { "item": "mysticalcraft:echoite_block" }
+    ],
+    "result": {
+      "item": "mysticalcraft:echoite_ingot",
+      "data": 0,
+      "count": 9
+    }
+  }
+}

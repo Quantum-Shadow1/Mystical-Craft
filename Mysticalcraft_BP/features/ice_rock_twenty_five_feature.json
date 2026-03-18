@@ -1,0 +1,17 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:structure_template_feature": {
+    "description": {
+      "identifier": "mysticalcraft:ice_rock_twenty_five_feature"
+    },
+
+    "structure_name": "mystructure:Ice_Rock_25",
+
+    "facing_direction": "random",
+    "constraints": {
+      "unburied": {},
+      "grounded": {}
+    },
+    "adjustment_radius": 8
+  }
+}

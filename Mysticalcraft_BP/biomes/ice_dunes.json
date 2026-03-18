@@ -1,0 +1,62 @@
+{ 
+  "format_version": "1.21.110",
+   "minecraft:biome": {
+      "description": { 
+        "identifier": "mysticalcraft:ice_dunes" 
+      },
+      "components": { 
+        "minecraft:creature_spawn_probability": { "probability": 0.6 },
+        "minecraft:climate": {
+          "downfall": 0.2,
+          "snow_accumulation": [0.0, 0.125],
+          "temperature": 0.8 
+        },
+        "minecraft:overworld_height": { "noise_params": [0.6, 0.9] },
+        "minecraft:replace_biomes": {
+          "replacements": 
+            [
+              {
+                "dimension": "minecraft:overworld",
+                "targets": ["minecraft:desert"],
+                  "amount": 0.33,
+                  "noise_frequency_scale": 0.125 
+              },
+              {
+                "dimension": "minecraft:overworld",
+                "targets": ["minecraft:desert_hills"],
+                  "amount": 0.33,
+                  "noise_frequency_scale": 0.125 
+              },
+              {
+                "dimension": "minecraft:overworld",
+                "targets": ["minecraft:desert_mutated"],
+                  "amount": 0.33,
+                  "noise_frequency_scale": 0.125 
+              }
+            ]
+          },
+          "minecraft:surface_builder": {
+            "builder": { 
+              "type": "minecraft:overworld",
+              "top_material": "mysticalcraft:frozen_sand",
+              "mid_material": "mysticalcraft:frozen_sandstone",
+              "foundation_material": "mysticalcraft:iced_stone",
+              "sea_floor_material": "mysticalcraft:frozen_sand",
+              "sea_floor_depth": 5,
+              "sea_material": "minecraft:water" 
+            } 
+          },
+          "minecraft:tags": {
+            "tags": [
+              "mysticalcraft:ice_dunes",
+              "minecraft:overworld",
+              "minecraft:monster",
+              "minecraft:desert",
+              "minecraft:frozen",
+              "minecraft:ice",
+              "minecraft:hills"
+            ]
+          }
+        }
+    } 
+}

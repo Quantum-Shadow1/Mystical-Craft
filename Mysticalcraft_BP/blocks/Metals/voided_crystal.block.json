@@ -1,0 +1,36 @@
+{
+	"format_version": "1.21.90",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mysticalcraft:voided_crystal",
+			"menu_category": {
+				"category": "nature",
+        "group": "minecraft:itemGroup.name.ore"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 15
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 30
+			},
+			"minecraft:geometry": {
+        "identifier":"geometry.voided_crystal",
+        "culling":"mysticalcraft:blended_glass"
+      },
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "voided_crystal",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:map_color": "#ffffff",
+			"minecraft:loot": "loot_tables/blocks/voided_crystal.json",
+      
+      "tag:minecraft:is_pickaxe_item_destructible": {}
+		}
+	}
+}

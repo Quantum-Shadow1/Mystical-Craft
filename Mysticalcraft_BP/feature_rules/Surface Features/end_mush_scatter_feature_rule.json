@@ -1,0 +1,32 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "mysticalcraft:end_mush_scatter_feature_rule",
+      "places_feature": "mysticalcraft:end_mush_random_feature"
+    },
+    "conditions": {
+      "placement_pass": "surface_pass",
+      "minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "the_end"
+						}
+					]
+				}
+			]
+    },
+    "distribution": {
+      "iterations": 175,
+      "coordinate_eval_order": "zxy",
+      "x": "math.random(-256, 256)",
+      "z": "math.random(-256, 256)",
+      "y": "q.heightmap(v.worldx, v.worldz)",
+
+      "scatter_chance": "math.sqrt(v.worldx * v.worldx + v.worldz * v.worldz) > 200"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "mysticalcraft:end_emerald_ore_feature_rule",
+      "places_feature": "mysticalcraft:end_emerald_ore_feature"
+    },
+    "conditions": {
+      "placement_pass": "surface_pass",
+      "minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "the_end"
+						}
+					]
+				}
+			]
+    },
+    "distribution": {
+      "iterations": 12,
+      "coordinate_eval_order": "zxy",
+      "x": "math.random(-32, 32)",
+      "y": "math.random(-64, 320)",
+      "z": "math.random(-32, 32)"
+    }
+  }
+}

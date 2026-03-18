@@ -1,0 +1,35 @@
+{
+    "format_version": "1.13.0",
+
+    "minecraft:weighted_random_feature": {
+        "description": {
+            "identifier": "mysticalcraft:vol_rock_random_feature"
+        },
+
+        "features": [
+            ["mysticalcraft:vol_rock_one_feature", 1],
+            ["mysticalcraft:vol_rock_two_feature", 1],
+            ["mysticalcraft:vol_rock_three_feature", 1],
+            ["mysticalcraft:vol_rock_four_feature", 1],
+            ["mysticalcraft:vol_rock_five_feature", 1],
+            ["mysticalcraft:vol_rock_six_feature", 1],
+            ["mysticalcraft:vol_rock_seven_feature", 1],
+            ["mysticalcraft:vol_rock_eight_feature", 1],
+            ["mysticalcraft:vol_rock_nine_feature", 1],
+            ["mysticalcraft:vol_rock_ten_feature", 1],
+            ["mysticalcraft:vol_rock_eleven_feature", 1],
+            ["mysticalcraft:vol_rock_twelve_feature", 1],
+            ["mysticalcraft:vol_rock_thirteen_feature", 1],
+            ["mysticalcraft:vol_rock_fourteen_feature", 1],
+            ["mysticalcraft:vol_rock_fifteen_feature", 1],
+            ["mysticalcraft:vol_rock_sixteen_feature", 1],
+            ["mysticalcraft:vol_rock_seventeen_feature", 1],
+            ["mysticalcraft:vol_rock_eighteen_feature", 1],
+            ["mysticalcraft:vol_rock_nineteen_feature", 1],
+            ["mysticalcraft:vol_rock_twenty_feature", 1],
+            ["mysticalcraft:vol_rock_twenty_one_feature", 1],
+            ["mysticalcraft:vol_rock_twenty_two_feature", 1],
+            ["mysticalcraft:vol_rock_twenty_three_feature", 1]
+        ]
+    }
+}

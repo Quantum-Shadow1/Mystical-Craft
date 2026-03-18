@@ -1,0 +1,12 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:structure_template_feature": {
+    "description": { "identifier": "mysticalcraft:m_fire_crystal_ten_feature" },
+
+    "structure_name": "mystructure:M_Fire_Crys_10",
+
+    "facing_direction": "random",
+    "constraints": { "unburied": {}, "grounded": {} },
+    "adjustment_radius": 4
+  }
+}

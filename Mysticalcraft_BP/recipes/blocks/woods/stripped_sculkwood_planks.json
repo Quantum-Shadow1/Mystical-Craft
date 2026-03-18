@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "mysticalcraft:stripped_sculk_wood_plank_recipe"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "mysticalcraft:stripped_sculk_wood",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      { "item": "mysticalcraft:stripped_sculk_wood" }
+    ],
+    "result": {
+      "item": "mysticalcraft:sculk_planks",
+      "data": 0,
+      "count": 4
+    }
+  }
+}

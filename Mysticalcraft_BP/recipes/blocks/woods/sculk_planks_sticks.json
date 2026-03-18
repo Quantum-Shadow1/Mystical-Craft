@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mysticalcraft:sculk_planks_sticks_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "P",
+      "P"
+    ],
+    "key": {
+      "P": {
+        "item": "mysticalcraft:sculk_planks"
+      }
+    },
+    "unlock": [
+      {"item": "mysticalcraft:sculk_planks"}
+    ],
+    "result": {
+      "item": "minecraft:stick",
+      "count": 4
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"format_version": "1.21.90",
+	"minecraft:item": {
+		"description": {
+			"identifier": "mysticalcraft:echoite_chestplate",
+			"menu_category": {
+				"category": "equipment",
+				"group": "minecraft:itemGroup.name.chestplate"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon":"echoite_chestplate",
+			"minecraft:wearable": {
+				"slot": "slot.armor.chest",
+				"protection": 9
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_torso",
+				"value": 20
+			},
+			"minecraft:durability": {
+				"max_durability": 625
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["mysticalcraft:echoite_ingot"],
+						"repair_amount": 60
+					}
+				]
+			},
+			"minecraft:tags": {
+        "tags": [
+					"minecraft:is_armor",
+          "minecraft:transformable_items"
+        ]
+      }
+		}
+	}
+}

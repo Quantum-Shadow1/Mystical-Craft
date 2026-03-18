@@ -1,0 +1,321 @@
+﻿{
+	"format_version": "1.21.0",
+	"orange_mushroom_block": {
+		"sound": "wood"
+	},
+	"white_mushroom_block": {
+		"sound": "wood"
+	},
+	"gray_mushroom_block": {
+		"sound": "wood"
+	},
+	"teal_mushroom_block": {
+		"sound": "wood"
+	},
+	"pink_mushroom_block": {
+		"sound": "wood"
+	},
+	"blue_mushroom_block": {
+		"sound": "wood"
+	},
+	"purple_mushroom_block": {
+		"sound": "wood"
+	},
+	"ender_mushroom_stem": {
+		"sound": "wood"
+	},
+	"spirit_mushroom_stem": {
+		"sound": "wood"
+	},
+	"spirit_leaves": {
+		"sound": "grass"
+	},
+	"block_of_chalcedony": {
+		"sound": "stone"
+	},
+	"chalcedony_bricks": {
+		"sound": "stone"
+	},
+	"chalcedony_pillar": {
+		"sound": "stone"
+	},
+	"chisled_chalcedony": {
+		"sound": "stone"
+	},
+	"smooth_chalcedony": {
+		"sound": "stone"
+	},
+	"block_of_rose_quartz": {
+		"sound": "stone"
+	},
+	"rose_quartz_bricks": {
+		"sound": "stone"
+	},
+	"rose_quartz_pillar": {
+		"sound": "stone"
+	},
+	"chisled_rose_quartz": {
+		"sound": "stone"
+	},
+	"smooth_rose_quartz": {
+		"sound": "stone"
+	},
+	"smooth_frozen_sandstone": {
+		"sound": "sand"
+	},
+	"cut_frozen_sandstone": {
+		"sound": "sand"
+	},
+	"chisled_frozen_sandstone": {
+		"sound": "sand"
+	},
+	"frozen_sandstone": {
+		"sound": "sand"
+	},
+	"chisled_sculk_stone_bricks": {
+		"sound": "deepslate"
+	},
+	"chisled_iced_stone_bricks": {
+		"sound": "stone"
+	},
+	"chisled_schorched_stone_bricks": {
+		"sound": "stone"
+	},
+	"frozen_leaves": {
+		"sound": "grass"
+	},
+	"sculk_leaves": {
+		"sound": "grass"
+	},
+	"cobbled_schorched_stone": {
+		"sound": "stone"
+	},
+	"cobbled_iced_stone": {
+		"sound": "stone"
+	},
+	"cobbled_sculk_stone": {
+		"sound": "deepslate"
+	},
+	"sculk_stone_bricks": {
+		"sound": "deepslate"
+	},
+	"dragon_dust_block": {
+		"sound": "glass"
+	},
+	"ender_chalcedony": {
+		"sound": "stone"
+	},
+	"ender_rose_quartz": {
+		"sound": "stone"
+	},
+	"ender_emerald_ore": {
+		"sound": "stone"
+	},
+	"ender_diamond_ore": {
+		"sound": "stone"
+	},
+	"sculk_echoite_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_emerald_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_copper_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_coal_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_redstone_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_lapis_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_diamond_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_gold_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_iron_ore": {
+		"sound": "deepslate"
+	},
+	"sculk_stone": {
+		"sound": "deepslate"
+	},
+	"schorched_infernium_ore": {
+		"sound": "stone"
+	},
+	"schorched_emerald_ore": {
+		"sound": "stone"
+	},
+	"schorched_copper_ore": {
+		"sound": "stone"
+	},
+	"schorched_coal_ore": {
+		"sound": "stone"
+	},
+	"schorched_redstone_ore": {
+		"sound": "stone"
+	},
+	"schorched_lapis_ore": {
+		"sound": "stone"
+	},
+	"schorched_diamond_ore": {
+		"sound": "stone"
+	},
+	"schorched_gold_ore": {
+		"sound": "stone"
+	},
+	"schorched_iron_ore": {
+		"sound": "stone"
+	},
+	"iced_cryonium_ore": {
+		"sound": "stone"
+	},
+	"iced_emerald_ore": {
+		"sound": "stone"
+	},
+	"iced_copper_ore": {
+		"sound": "stone"
+	},
+	"iced_coal_ore": {
+		"sound": "stone"
+	},
+	"iced_redstone_ore": {
+		"sound": "stone"
+	},
+	"iced_lapis_ore": {
+		"sound": "stone"
+	},
+	"iced_diamond_ore": {
+		"sound": "stone"
+	},
+	"iced_gold_ore": {
+		"sound": "stone"
+	},
+	"iced_iron_ore": {
+		"sound": "stone"
+	},
+	"block_of_dragonite": {
+		"sound": "metal"
+	},
+	"voided_crystal": {
+		"sound": "amethyst_block"
+	},
+	"dragonwood_planks": {
+		"sound": "wood"
+	},
+	"sculk_planks": {
+		"sound": "wood"
+	},
+	"stripped_dragonwood_wood": {
+		"sound": "wood"
+	},
+	"stripped_dragonwood_log": {
+		"sound": "wood"
+	},
+	"dragonwood_wood": {
+		"sound": "wood"
+	},
+	"dragonwood_log": {
+		"sound": "wood"
+	},
+	"stripped_sculk_wood": {
+		"sound": "wood"
+	},
+	"stripped_sculk_log": {
+		"sound": "wood"
+	},
+	"sculk_wood": {
+		"sound": "wood"
+	},
+	"sculk_log": {
+		"sound": "wood"
+	},
+	"charred_planks": {
+		"sound": "wood"
+	},
+	"iced_planks": {
+		"sound": "wood"
+	},
+	"stripped_charred_wood": {
+		"sound": "wood"
+	},
+	"stripped_charred_log": {
+		"sound": "wood"
+	},
+	"stripped_iced_wood": {
+		"sound": "wood"
+	},
+	"stripped_iced_log": {
+		"sound": "wood"
+	},
+	"charred_wood": {
+		"sound": "wood"
+	},
+	"iced_wood": {
+		"sound": "wood"
+	},
+	"schorched_stone_bricks": {
+		"sound": "stone"
+	},
+	"iced_stone_bricks": {
+		"sound": "stone"
+	},
+	"charred_log": {
+		"sound": "wood"
+	},
+	"iced_log": {
+		"sound": "wood"
+	},
+	"schorched_stone": {
+		"sound": "stone"
+	},
+	"iced_stone": {
+		"sound": "stone"
+	},
+	"volcanic_ash": {
+		"sound": "sand"
+	},
+	"frozen_snow": {
+		"sound": "snow"
+	},
+	"frozen_sand": {
+		"sound": "sand"
+	},
+	"cryonium_ore": {
+		"sound": "stone"
+	},
+	"block_of_infernium": {
+		"sound": "metal"
+	},
+	"block_of_cryonium": {
+		"sound": "stone"
+	},
+	"echoite_dust_block": {
+		"sound": "glass"
+	},
+	"echoite_ore": {
+		"sound": "stone"
+	},
+	"deepslate_echoite_ore": {
+		"sound": "deepslate"
+	},
+	"infernium_ore": {
+		"sound": "stone"
+	},
+	"deepslate_infernium_ore": {
+		"sound": "deepslate"
+	},
+	"nether_infernium_ore": {
+		"sound": "stone"
+	},
+	"echoite_block": {
+		"sound": "stone"
+	},
+	"schorched_dirt": {
+		"sound": "grass"
+	}
+}

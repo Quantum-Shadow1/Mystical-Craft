@@ -1,0 +1,36 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:single_block_feature": {
+    "description": {
+      "identifier": "mysticalcraft:dead_bushes_feature"
+    },
+    "places_block": [
+      {
+        "block": "minecraft:deadbush",
+        "weight": 5
+      }
+    ],
+    "randomize_rotation": true,
+    "enforce_survivability_rules": true,
+    "enforce_placement_rules": true,
+    "may_attach_to": {
+      "auto_rotate": false,
+      "min_sides_must_attach": 1,
+      "south": [
+        "minecraft:grass",
+        "minecraft:dirt",
+        "mysticalcraft:frozen_sand",
+        "mysticalcraft:schorched_dirt",
+        "mysticalcraft:volcanic_ash"
+      ]
+    },
+    "may_not_attach_to": {
+      "south": {
+        "name": "minecraft:dirt",
+        "states": {
+          "dirt_type": "coarse"
+        }
+      }
+    }
+  }
+}

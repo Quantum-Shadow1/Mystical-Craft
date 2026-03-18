@@ -1,0 +1,25 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:dragonwood_wood_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "LL",
+        "LL"
+       
+        ],
+    "key": {
+        "L": {
+            "item": "mysticalcraft:dragonwood_log"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:dragonwood_log" }
+    ],
+    "result": {
+        "item": "mysticalcraft:dragonwood_wood"
+        }
+    }
+}

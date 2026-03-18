@@ -1,0 +1,20 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:weighted_random_feature": {
+    "description": {
+      "identifier": "mysticalcraft:scu_rock_large_random_feature"
+    },
+    "features": [
+      ["mysticalcraft:scu_rock_one_feature", 1],
+      ["mysticalcraft:scu_rock_two_feature", 1],
+      ["mysticalcraft:scu_rock_three_feature", 1],
+      ["mysticalcraft:scu_rock_four_feature", 1],
+      ["mysticalcraft:scu_rock_five_feature", 1],
+      ["mysticalcraft:scu_rock_six_feature", 1],
+      ["mysticalcraft:scu_rock_seven_feature", 1],
+      ["mysticalcraft:scu_rock_eight_feature", 1],
+      ["mysticalcraft:scu_rock_nine_feature", 1],
+      ["mysticalcraft:scu_rock_ten_feature", 1]
+    ]
+  }
+}

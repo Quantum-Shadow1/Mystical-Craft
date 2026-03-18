@@ -1,0 +1,18 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mysticalcraft:frozen_snow_patch_feature"
+    },
+    "count": 128,
+    "replace_rules": [
+      {
+        "places_block": "mysticalcraft:frozen_snow",
+        "may_replace": [
+          "mysticalcraft:frozen_sand",
+          "mysticalcraft:frozen_sandstone"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+	"format_version": "1.21.90",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mysticalcraft:frozen_sand",
+			"menu_category": {
+				"category": "nature"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 30
+			},
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "frozen_sand",
+					"render_method": "opaque",
+					"isotropic": true
+				}
+			},
+			"minecraft:map_color": "#ffffff",
+
+      "tag:minecraft:is_shovel_item_destructible": {},
+      "tag:sand": {}
+		}
+	}
+}

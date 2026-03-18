@@ -1,0 +1,465 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"orange_mushroom_block": {
+			"textures": "textures/blocks/orange_mushroom_block"
+		},
+		"white_mushroom_block": {
+			"textures": "textures/blocks/white_mushroom_block"
+		},
+		"gray_mushroom_block": {
+			"textures": "textures/blocks/gray_mushroom_block"
+		},
+		"teal_mushroom_block": {
+			"textures": "textures/blocks/teal_mushroom_block"
+		},
+		"pink_mushroom_block": {
+			"textures": "textures/blocks/pink_mushroom_block"
+		},
+		"blue_mushroom_block": {
+			"textures": "textures/blocks/blue_mushroom_block"
+		},
+		"purple_mushroom_block": {
+			"textures": "textures/blocks/purple_mushroom_block"
+		},
+		"ender_mushroom_stem": {
+			"textures": "textures/blocks/ender_mushroom_stem"
+		},
+		"spirit_mushroom_stem": {
+			"textures": "textures/blocks/spirit_mushroom_stem"
+		},
+		"spirit_leaves": {
+			"textures": "textures/blocks/spirit_leaves"
+		},
+		"block_of_chalcedony": {
+			"textures": "textures/blocks/block_of_chalcedony"
+		},
+		"chalcedony_bricks": {
+			"textures": "textures/blocks/chalcedony_bricks"
+		},
+		"chalcedony_pillar": {
+			"textures": "textures/blocks/chalcedony_pillar"
+		},
+		"chisled_chalcedony": {
+			"textures": "textures/blocks/chisled_chalcedony_face1"
+		},
+		"smooth_chalcedony": {
+			"textures": "textures/blocks/smooth_chalcedony"
+		},
+		"block_of_rose_quartz": {
+			"textures": "textures/blocks/block_of_rose_quartz"
+		},
+		"rose_quartz_bricks": {
+			"textures": "textures/blocks/rose_quartz_bricks"
+		},
+		"rose_quartz_pillar": {
+			"textures": "textures/blocks/rose_quartz_pillar"
+		},
+		"chisled_rose_quartz": {
+			"textures": "textures/blocks/chisled_rose_quartz_face1"
+		},
+		"smooth_rose_quartz": {
+			"textures": "textures/blocks/smooth_rose_quartz"
+		},
+		"smooth_frozen_sandstone": {
+			"textures": "textures/blocks/smooth_frozen_sandstone"
+		},
+		"cut_frozen_sandstone": {
+			"textures": "textures/blocks/cut_frozen_sandstone"
+		},
+		"chisled_frozen_sandstone": {
+			"textures": "textures/blocks/chisled_frozen_sandstone"
+		},
+		"frozen_sandstone": {
+			"textures": "textures/blocks/frozen_sandstone"
+		},
+		"chisled_sculk_stone_bricks": {
+			"textures": "textures/blocks/chisled_sculk_stone_bricks"
+		},
+		"chisled_iced_stone_bricks": {
+			"textures": "textures/blocks/chisled_iced_stone_bricks"
+		},
+		"chisled_schorched_stone_bricks": {
+			"textures": "textures/blocks/chisled_schorched_stone_bricks"
+		},
+		"frozen_leaves": {
+			"textures": "textures/blocks/frozen_leaves"
+		},
+		"sculk_leaves": {
+			"textures": "textures/blocks/sculk_leaves"
+		},
+		"cobbled_schorched_stone": {
+			"textures": "textures/blocks/cobbled_schorched_stone"
+		},
+		"cobbled_iced_stone": {
+			"textures": "textures/blocks/cobbled_iced_stone"
+		},
+		"cobbled_sculk_stone": {
+			"textures": "textures/blocks/cobbled_sculk_stone"
+		},
+		"sculk_stone_bricks": {
+			"textures": "textures/blocks/sculk_stone_bricks"
+		},
+		"dragon_dust_block": {
+			"textures": "textures/blocks/dragon_dust_block"
+		},
+		"ender_chalcedony": {
+			"textures": "textures/blocks/ender_chalcedony.png"
+		},
+		"ender_rose_quartz": {
+			"textures": "textures/blocks/ender_rose_quartz.png"
+		},
+		"ender_emerald_ore": {
+			"textures": "textures/blocks/ender_emerald_ore.png"
+		},
+		"ender_diamond_ore": {
+			"textures": "textures/blocks/ender_diamond_ore.png"
+		},
+		"sculk_echoite_ore": {
+			"textures": "textures/blocks/sculk_echoite_ore.png"
+		},
+		"sculk_emerald_ore": {
+			"textures": "textures/blocks/sculk_emerald_ore.png"
+		},
+		"sculk_copper_ore": {
+			"textures": "textures/blocks/sculk_copper_ore.png"
+		},
+		"sculk_coal_ore": {
+			"textures": "textures/blocks/sculk_coal_ore.png"
+		},
+		"sculk_redstone_ore": {
+			"textures": "textures/blocks/sculk_redstone_ore.png"
+		},
+		"sculk_lapis_ore": {
+			"textures": "textures/blocks/sculk_lapis_ore.png"
+		},
+		"sculk_diamond_ore": {
+			"textures": "textures/blocks/sculk_diamond_ore.png"
+		},
+		"sculk_gold_ore": {
+			"textures": "textures/blocks/sculk_gold_ore.png"
+		},
+		"sculk_iron_ore": {
+			"textures": "textures/blocks/sculk_iron_ore.png"
+		},
+		"sculk_stone": {
+			"textures": "textures/blocks/sculk_stone.png"
+		},
+		"schorched_infernium_ore": {
+			"textures": "textures/blocks/schorched_infernium_ore.png"
+		},
+		"schorched_emerald_ore": {
+			"textures": "textures/blocks/schorched_emerald_ore.png"
+		},
+		"schorched_copper_ore": {
+			"textures": "textures/blocks/schorched_copper_ore.png"
+		},
+		"schorched_coal_ore": {
+			"textures": "textures/blocks/schorched_coal_ore.png"
+		},
+		"schorched_redstone_ore": {
+			"textures": "textures/blocks/schorched_redstone_ore.png"
+		},
+		"schorched_lapis_ore": {
+			"textures": "textures/blocks/schorched_lapis_ore.png"
+		},
+		"schorched_diamond_ore": {
+			"textures": "textures/blocks/schorched_diamond_ore.png"
+		},
+		"schorched_gold_ore": {
+			"textures": "textures/blocks/schorched_gold_ore.png"
+		},
+		"schorched_iron_ore": {
+			"textures": "textures/blocks/schorched_iron_ore.png"
+		},
+		"iced_cryonium_ore": {
+			"textures": "textures/blocks/iced_cryonium_ore.png"
+		},
+		"iced_emerald_ore": {
+			"textures": "textures/blocks/iced_emerald_ore.png"
+		},
+		"iced_copper_ore": {
+			"textures": "textures/blocks/iced_copper_ore.png"
+		},
+		"iced_coal_ore": {
+			"textures": "textures/blocks/iced_coal_ore.png"
+		},
+		"iced_redstone_ore": {
+			"textures": "textures/blocks/iced_redstone_ore.png"
+		},
+		"iced_lapis_ore": {
+			"textures": "textures/blocks/iced_lapis_ore.png"
+		},
+		"iced_diamond_ore": {
+			"textures": "textures/blocks/iced_diamond_ore.png"
+		},
+		"iced_gold_ore": {
+			"textures": "textures/blocks/iced_gold_ore.png"
+		},
+		"iced_iron_ore": {
+			"textures": "textures/blocks/iced_iron_ore.png"
+		},
+		"block_of_dragonite": {
+			"textures": "textures/blocks/block_of_dragonite.png"
+		},
+		"voided_crystal": {
+			"textures": "textures/blocks/voided_crystal.png"
+		},
+		"dragonwood_planks": {
+			"textures": "textures/blocks/dragonwood_planks.png"
+		},
+		"sculk_planks": {
+			"textures": "textures/blocks/sculk_planks.png"
+		},
+		"stripped_dragonwood_wood": {
+			"textures": "textures/blocks/stripped_dragonwood_wood.png"
+		},
+		"stripped_dragonwood_log": {
+			"textures": "textures/blocks/stripped_dragonwood_log.png"
+		},
+		"dragonwood_wood": {
+			"textures": "textures/blocks/dragonwood_wood.png"
+		},
+		"dragonwood_log": {
+			"textures": "textures/blocks/dragonwood_log.png"
+		},
+		"stripped_sculk_wood": {
+			"textures": "textures/blocks/stripped_sculk_wood.png"
+		},
+		"stripped_sculk_log": {
+			"textures": "textures/blocks/stripped_sculk_log.png"
+		},
+		"sculk_wood": {
+			"textures": "textures/blocks/sculk_wood.png"
+		},
+		"sculk_log": {
+			"textures": "textures/blocks/sculk_log.png"
+		},
+		"charred_planks": {
+			"textures": "textures/blocks/charred_planks.png"
+		},
+		"iced_planks": {
+			"textures": "textures/blocks/iced_planks.png"
+		},
+		"stripped_charred_wood": {
+			"textures": "textures/blocks/stripped_charred_wood.png"
+		},
+		"stripped_charred_log": {
+			"textures": "textures/blocks/stripped_charred_log.png"
+		},
+		"stripped_iced_wood": {
+			"textures": "textures/blocks/stripped_iced_wood.png"
+		},
+		"stripped_iced_log": {
+			"textures": "textures/blocks/stripped_iced_log.png"
+		},
+		"charred_wood": {
+			"textures": "textures/blocks/charred_wood.png"
+		},
+		"iced_wood": {
+			"textures": "textures/blocks/iced_wood.png"
+		},
+		"polished_schorched_stone": {
+			"textures": "textures/blocks/polished_schorched_stone.png"
+		},
+		"polished_ice_stone": {
+			"textures": "textures/blocks/polished_ice_stone.png"
+		},
+		"schorched_stone_bricks": {
+			"textures": "textures/blocks/schorched_stone_bricks.png"
+		},
+		"iced_stone_bricks": {
+			"textures": "textures/blocks/iced_stone_bricks.png"
+		},
+		"charred_log": {
+			"textures": "textures/blocks/charred_log.png"
+		},
+		"iced_log": {
+			"textures": "textures/blocks/iced_log.png"
+		},
+		"schorched_stone": {
+			"textures": "textures/blocks/schorched_stone.png"
+		},
+		"iced_stone": {
+			"textures": "textures/blocks/iced_stone.png"
+		},
+		"volcanic_ash": {
+			"textures": "textures/blocks/volcanic_ash.png"
+		},
+		"frozen_snow": {
+			"textures": "textures/blocks/frozen_snow.png"
+		},
+		"frozen_sand": {
+			"textures": "textures/blocks/frozen_sand.png"
+		},
+		"schorched_dirt": {
+			"textures": "textures/blocks/schorched_dirt.png"
+		},
+		"cryonium_ore": {
+			"textures": "textures/blocks/cryonium_ore.png"
+		},
+		"block_of_infernium": {
+			"textures": "textures/blocks/block_of_infernium.png"
+		},
+		"block_of_cryonium": {
+			"textures": "textures/blocks/block_of_cryonium.png"
+		},
+		"sculk_stairs": {
+			"textures": "textures/blocks/sculk_stairs.png"
+		},
+		"sculk_slab": {
+			"textures": "textures/blocks/sculk_slab.png"
+		},
+		"echoite_dust_block": {
+			"textures": "textures/blocks/echoite_dust_block.png"
+		},
+		"deepslate_cryonium_ore": {
+			"textures": "textures/blocks/deepslate_cryonium_ore.png"
+		},
+		"deepslate_echoite_ore": {
+			"textures": "textures/blocks/deepslate_echoite_ore.png"
+		},
+		"deepslate_infernium_ore": {
+			"textures": "textures/blocks/deepslate_infernium_ore.png"
+		},
+		"echoite_ore": {
+			"textures": "textures/blocks/echoite_ore.png"
+		},
+		"echoite_block": {
+			"textures": "textures/blocks/echoite_block.png"
+		},
+		"infernium_ore": {
+			"textures": "textures/blocks/infernium_ore.png"
+		},
+		"nether_infernium_ore": {
+			"textures": "textures/blocks/nether_infernium_ore.png"
+		},
+		"block_of_dragonite_face1": {
+			"textures": "textures/blocks/block_of_dragonite_face1"
+		},
+		"block_of_dragonite_face2": {
+			"textures": "textures/blocks/block_of_dragonite_face2"
+		},
+		"block_of_dragonite_face3": {
+			"textures": "textures/blocks/block_of_dragonite_face3"
+		},
+		"chalcedony_pillar_top": {
+			"textures": "textures/blocks/chalcedony_pillar_top"
+		},
+		"charred_log_top": {
+			"textures": "textures/blocks/charred_log_top"
+		},
+		"chisled_chalcedony_face2": {
+			"textures": "textures/blocks/chisled_chalcedony_face2"
+		},
+		"chisled_chalcedony_face3": {
+			"textures": "textures/blocks/chisled_chalcedony_face3"
+		},
+		"chisled_frozen_sandstone_side": {
+			"textures": "textures/blocks/chisled_frozen_sandstone_side"
+		},
+		"chisled_frozen_sandstone_top": {
+			"textures": "textures/blocks/chisled_frozen_sandstone_top"
+		},
+		"chisled_iced_stone_bricks_top": {
+			"textures": "textures/blocks/chisled_iced_stone_bricks_top"
+		},
+		"chisled_rose_quartz_face2": {
+			"textures": "textures/blocks/chisled_rose_quartz_face2"
+		},
+		"chisled_rose_quartz_face3": {
+			"textures": "textures/blocks/chisled_rose_quartz_face3"
+		},
+		"chisled_schorched_stone_bricks_top": {
+			"textures": "textures/blocks/chisled_schorched_stone_bricks_top"
+		},
+		"chisled_sculk_stone_top": {
+			"textures": "textures/blocks/chisled_sculk_stone_top"
+		},
+		"chisled_sculk_stone_bricks_top": {
+			"textures": "textures/blocks/chisled_sculk_stone_bricks_top"
+		},
+		"cut_frozen_sandstone_side": {
+			"textures": "textures/blocks/cut_frozen_sandstone_side"
+		},
+		"cut_frozen_sandstone_top": {
+			"textures": "textures/blocks/cut_frozen_sandstone_top"
+		},
+		"dragonite_hoe": {
+			"textures": "textures/blocks/dragonite_hoe"
+		},
+		"dragonwood_log_top": {
+			"textures": "textures/blocks/dragonwood_log_top"
+		},
+		"frozen_moss": {
+			"textures": "textures/blocks/frozen_moss"
+		},
+		"frozen_sandstone_side": {
+			"textures": "textures/blocks/frozen_sandstone_side"
+		},
+		"frozen_sandstone_top": {
+			"textures": "textures/blocks/frozen_sandstone_top"
+		},
+		"frozen_sandstone_bottom": {
+			"textures": "textures/blocks/frozen_sandstone_bottom"
+		},
+		"fungal_endstone_bottom": {
+			"textures": "textures/blocks/fungal_endstone_bottom"
+		},
+		"fungal_endstone_side": {
+			"textures": "textures/blocks/fungal_endstone_side"
+		},
+		"fungal_endstone_top": {
+			"textures": "textures/blocks/fungal_endstone_top"
+		},
+		"iced_log_top": {
+			"textures": "textures/blocks/iced_log_top"
+		},
+		"iced_stone_brick": {
+			"textures": "textures/blocks/iced_stone_brick"
+		},
+		"molten_moss": {
+			"textures": "textures/blocks/molten_moss"
+		},
+		"quartz_pillar_2": {
+			"textures": "textures/blocks/quartz_pillar_2"
+		},
+		"rose_quartz_pillar_top": {
+			"textures": "textures/blocks/rose_quartz_pillar_top"
+		},
+		"schorched_stone_brick": {
+			"textures": "textures/blocks/schorched_stone_brick"
+		},
+		"sculk_log_top": {
+			"textures": "textures/blocks/sculk_log_top"
+		},
+		"stripped_charred_log_side": {"textures": "textures/blocks/stripped_charred_log"},
+		"stripped_charred_log_top": {
+			"textures": "textures/blocks/stripped_charred_log_top"
+		},
+		"stripped_dragonwood_log_top": {
+			"textures": "textures/blocks/stripped_dragonwood_log_top"
+		},
+		"stripped_iced_log_top": {
+			"textures": "textures/blocks/stripped_iced_log_top"
+		},
+		"stripped_sculk_log_top": {
+			"textures": "textures/blocks/stripped_sculk_log_top"
+		},
+		"toxic_endstone": {
+			"textures": "textures/blocks/toxic_endstone"
+		},
+		"wasted_endstone_bottom": {
+			"textures": "textures/blocks/wasted_endstone_bottom"
+		},
+		"wasted_endstone_side": {
+			"textures": "textures/blocks/wasted_endstone_side"
+		},
+		"wasted_endstone_top": {
+			"textures": "textures/blocks/wasted_endstone_top"
+		}
+	}
+}

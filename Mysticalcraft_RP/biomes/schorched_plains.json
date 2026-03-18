@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mysticalcraft:schorched_plains"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#3D3D3D"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft:fog_desert"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#2B2B2B"
+      },
+    "minecraft:biome_music": {
+        "volume_multiplier": 0
+      },
+    "minecraft:foliage_appearance": {
+        "color": "#2a3028"
+    },
+    "minecraft:grass_appearance": {
+      "color": "#4a524a"
+      }
+    }
+
+  }
+}

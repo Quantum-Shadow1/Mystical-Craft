@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mysticalcraft:glacial_mountains"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#6666ff"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft:fog_ice_mountains"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#6666ff"
+      },
+    "minecraft:biome_music": {
+        "volume_multiplier": 0
+      },
+    "minecraft:foliage_appearance": {
+        "color": "#a8bab8"
+    },
+    "minecraft:grass_appearance": {
+      "color": "#98aca8"
+      }
+    }
+
+  }
+}

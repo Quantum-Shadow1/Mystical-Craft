@@ -1,0 +1,29 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mysticalcraft:echoite_ore_feature"
+    },
+    "count": 8,
+    "replace_rules": [
+      {
+      "places_block": "mysticalcraft:echoite_ore",
+      "may_replace": [
+        "minecraft:stone"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:deepslate_echoite_ore",
+      "may_replace": [
+        "minecraft:deepslate"
+      ]
+      },
+      {
+      "places_block": "mysticalcraft:sculk_echoite_ore",
+      "may_replace": [
+        "mysticalcraft:sculk_stone"
+      ]
+      }
+    ]
+  }
+}

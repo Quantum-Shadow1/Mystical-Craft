@@ -1,0 +1,95 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "mysticalcraft:cryonium_ore_feature_rule",
+      "places_feature": "mysticalcraft:cryonium_ore_feature"
+    },
+    "conditions": {
+      "placement_pass": "underground_pass",
+      "minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "frozen_ocean"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "frozen_peaks"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "frozen_river"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "snowy_slopes"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "cold_ocean"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "cold_beach"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "cold_tiga"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "cold_tiga_hills"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "cold_tiga_mutated"
+						},
+             {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "ice_mountains"
+						},
+             {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "ice_plains"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "ice_plains_spikes"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:glacial_mountains"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "ice_dunes"
+						}
+					]
+				}
+			]
+    },
+    "distribution": {
+      "iterations": 3,
+      "coordinate_eval_order": "zxy",
+	"x": "math.random(-32, 32)",
+      "y": "math.random(-64, 320)",
+	"z": "math.random(-32, 32)"
+    }
+  }
+}

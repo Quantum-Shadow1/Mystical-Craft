@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mysticalcraft:furnace_dragonite_scrap_recipe"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "mysticalcraft:dragonite_scrap"
+    },
+    "output": "mysticalcraft:dragonite_ingot",
+    "experience": 0.5,
+    "cookingtime": 275
+  }
+}

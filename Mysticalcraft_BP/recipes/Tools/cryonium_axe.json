@@ -1,0 +1,28 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:cryonium_axe_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "CC",
+        "CS",
+        " S"
+        ],
+    "key": {
+        "C": {
+            "item": "mysticalcraft:cryonium_ingot"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:cryonium_ingot" }
+    ],
+    "result": {
+        "item": "mysticalcraft:cryonium_axe"
+        }
+    }
+}

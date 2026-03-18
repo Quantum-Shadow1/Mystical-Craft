@@ -1,0 +1,25 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:cryonium_chestplate_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "C C",
+        "CCC",
+        "CCC"
+        ],
+    "key": {
+        "C": {
+            "item": "mysticalcraft:cryonium_ingot"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:cryonium_ingot" }
+    ],
+    "result": {
+        "item": "mysticalcraft:cryonium_chestplate"
+        }
+    }
+}

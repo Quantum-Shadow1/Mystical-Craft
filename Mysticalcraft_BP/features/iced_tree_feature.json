@@ -1,0 +1,38 @@
+
+{
+  "format_version": "1.13.0",
+  "minecraft:tree_feature": {
+    "description": {
+        "identifier": "mysticalcraft:iced_tree_feature"
+    },
+
+    "base_block": [
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:farmland",
+      "minecraft:sculk"],
+
+    "may_replace": ["minecraft:air"],
+
+    "trunk": {
+        "trunk_block": "mysticalcraft:iced_log",
+
+        "trunk_height": [9,12]
+    },
+    "pine_canopy": {
+        "canopy_height": 4,
+        "base_radius": 3,
+        "leaf_block": "mysticalcraft:frozen_leaves"
+    },
+    "may_grow_through":[
+      "mysticalcraft:frozen_leaves"
+    ],
+    "may_grow_on": [
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "minecraft:farmland",
+    "minecraft:snow",
+    "minecraft:ice"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:structure_template_feature": {
+    "description": { "identifier": "mysticalcraft:m_sculk_crystal_thirteen_feature" },
+
+    "structure_name": "mystructure:M_Scu_Crys_13",
+
+    "facing_direction": "random",
+    "constraints": { "unburied": {}, "grounded": {} },
+    "adjustment_radius": 8
+  }
+}

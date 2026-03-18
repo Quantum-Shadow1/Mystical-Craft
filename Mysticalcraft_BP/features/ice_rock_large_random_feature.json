@@ -1,0 +1,19 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:weighted_random_feature": {
+    "description": {
+      "identifier": "mysticalcraft:ice_rock_large_random_feature"
+    },
+    "features": [
+      ["mysticalcraft:ice_rock_one_feature", 1],
+      ["mysticalcraft:ice_rock_two_feature", 1],
+      ["mysticalcraft:ice_rock_three_feature", 1],
+      ["mysticalcraft:ice_rock_four_feature", 1],
+      ["mysticalcraft:ice_rock_five_feature", 1],
+      ["mysticalcraft:ice_rock_six_feature", 1],
+      ["mysticalcraft:ice_rock_seven_feature", 1],
+      ["mysticalcraft:ice_rock_eight_feature", 1],
+      ["mysticalcraft:ice_rock_nine_feature", 1]
+    ]
+  }
+}

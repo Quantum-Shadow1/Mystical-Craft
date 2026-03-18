@@ -1,0 +1,25 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:chalcedony_bricks_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "QQ",
+        "QQ"
+        ],
+    "key": {
+        "Q": {
+            "item": "mysticalcraft:block_of_chalcedony"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:block_of_chalcedony" }
+    ],
+    "result": {
+        "item": "mysticalcraft:chalcedony_bricks",
+        "count": 4
+        }
+    }
+}

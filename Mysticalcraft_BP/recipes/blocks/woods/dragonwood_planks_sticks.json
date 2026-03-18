@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mysticalcraft:dragonwood_planks_sticks_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "P",
+      "P"
+    ],
+    "key": {
+      "P": {
+        "item": "mysticalcraft:dragonwood_planks"
+      }
+    },
+    "unlock": [
+      {"item": "mysticalcraft:dragonwood_planks"}
+    ],
+    "result": {
+      "item": "minecraft:stick",
+      "count": 4
+    }
+  }
+}

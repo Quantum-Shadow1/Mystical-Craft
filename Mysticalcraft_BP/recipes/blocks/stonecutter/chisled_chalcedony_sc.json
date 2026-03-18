@@ -1,0 +1,25 @@
+
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "mysticalcraft:chisled_chalcedony_sc_recipe"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "priority": 2,
+    "ingredients": [
+      {
+        "item": "mysticalcraft:block_of_chalcedony",
+        "data": 5
+      }
+    ],
+    "result": {
+      "item": "mysticalcraft:chisled_chalcedony",
+      "data": 4,
+      "count": 1
+    }
+  }
+  
+}

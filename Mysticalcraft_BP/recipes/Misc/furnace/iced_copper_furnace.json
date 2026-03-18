@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mysticalcraft:iced_copper_furnace_recipe"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "mysticalcraft:iced_copper_ore"
+    },
+    "output": "minecraft:copper_ingot",
+    "experience": 0.2,
+    "cookingtime": 200
+  }
+}

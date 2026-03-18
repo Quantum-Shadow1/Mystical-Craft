@@ -1,0 +1,40 @@
+{
+    "format_version": "1.13.0",
+
+    "minecraft:weighted_random_feature": {
+        "description": {
+            "identifier": "mysticalcraft:sculk_crystal_random_feature"
+        },
+
+        "features": [
+            ["mysticalcraft:l_sculk_crystal_one_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_two_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_three_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_four_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_five_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_six_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_seven_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_eight_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_nine_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_ten_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_eleven_feature", 1],
+            ["mysticalcraft:l_sculk_crystal_twelve_feature", 1],
+
+            ["mysticalcraft:m_sculk_crystal_one_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_two_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_three_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_four_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_five_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_six_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_seven_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_eight_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_nine_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_ten_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_eleven_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_twelve_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_thirteen_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_fourteen_feature", 7],
+            ["mysticalcraft:m_sculk_crystal_fifteen_feature", 7]
+        ]
+    }
+}

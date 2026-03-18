@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mysticalcraft:volcanic_mountains"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#A12424"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft:fog_the_end"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#EE7B06"
+      },
+    "minecraft:biome_music": {
+        "volume_multiplier": 0
+      },
+    "minecraft:foliage_appearance": {
+        "color": "#C2B280"
+    },
+    "minecraft:grass_appearance": {
+      "color": "#C2B280"
+      }
+    }
+
+  }
+}

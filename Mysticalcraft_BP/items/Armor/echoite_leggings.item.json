@@ -1,0 +1,41 @@
+{
+	"format_version": "1.21.90",
+	"minecraft:item": {
+		"description": {
+			"identifier": "mysticalcraft:echoite_leggings",
+			"menu_category": {
+				"category": "equipment",
+				"group": "minecraft:itemGroup.name.leggings"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": "echoite_leggings",
+			"minecraft:wearable": {
+				"slot": "slot.armor.legs",
+				"protection": 7
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_legs",
+				"value": 20
+			},
+			"minecraft:durability": {
+				"max_durability": 575
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["mysticalcraft:echoite_ingot"],
+						"repair_amount": 525
+					}
+				]
+			},
+			      "minecraft:tags": {
+        "tags": [
+					"minecraft:is_armor",
+          "minecraft:transformable_items"
+        ]
+      }
+		}
+	}
+}

@@ -1,0 +1,46 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:block": {
+    "description": {
+      "identifier": "mysticalcraft:chisled_sculk_stone_bricks",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:collision_box": true,
+      "minecraft:selection_box": true,
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 5
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 30
+      },
+      "minecraft:geometry": {
+        "identifier": "minecraft:geometry.full_block"
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "chisled_sculk_stone_bricks",
+          "render_method": "opaque"
+        },
+        "up": {
+          "texture": "chisled_sculk_stone_bricks_top",
+          "render_method": "opaque"
+        },
+        "down": {
+          "texture": "chisled_sculk_stone_bricks_top",
+          "render_method": "opaque"
+        }
+      },
+      "minecraft:map_color": "#ffffff",
+      "tag:minecraft:is_pickaxe_item_destructible": {
+        
+      },
+      "tag:stone": {
+        
+      }
+    }
+  }
+}
+

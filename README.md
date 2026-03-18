@@ -1,31 +1,23 @@
------ Mystical Craft Beta v0.1.5 -----
+----- Mystical Craft Beta v0.2.0 -----
 
-*****How To Install*****
-
-Download and open the MysticalCraftPack.mcaddon file. It will open Minecraft and beging the installation
+*****This Version Is Not Publicly Avilable Yet*****
 
 *****Features*****
 
-Echoite Set includes:
-  - Tools
-  - Armor
-  - Materials
-  - Some blocks
-  - Hint: Look in the Deep Dark biome for a new ore!
+Armor/Tools/Materials:
+  -Echoite armor, tool, and material set
+  -Infernium armor, tool, and material set
+  -Cryonium armor, tool, and material set
 
-Infernium Set includes:
-  - Tools
-  - Armor
-  - Materials
-  - Some blocks
-  - Hint: Find new ore in warm biomes!
-
-Cryonium Set includes:
-  - Tools
-  - Armor
-  - Materials
-  - Some blocks
-  - Hint: Look for new ore in cold biomes!
+New Biomes:
+  -Skulk Plains Biome
+  -Skulk Mountain Biome
+  -Volcanic Biome
+  -Molten Cave Biome
+  -Scorche Plains Biome
+  -Frozen Mountain Biome
+  -Frozen Cave Biome
+  -Frozen Dunes Biome
 
 *****This is the first release, with more updates planned!*****
 

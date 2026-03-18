@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mysticalcraft:infernium_ingot_furnace_recipe"
+    },
+    "tags": ["furnace"],
+    "input": {
+      "item": "mysticalcraft:raw_infernium"
+    },
+    "output": "mysticalcraft:infernium_ingot",
+    "experience": 0.35,
+    "cookingtime": 225
+  }
+}

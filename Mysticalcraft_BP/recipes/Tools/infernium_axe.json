@@ -1,0 +1,28 @@
+{
+"format_version": "1.20.50",
+"minecraft:recipe_shaped": {
+    "description": {
+        "identifier": "mysticalcraft:infernium_axe_recipe"
+        },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+        "II",
+        "IS",
+        " S"
+        ],
+    "key": {
+        "I": {
+            "item": "mysticalcraft:infernium_ingot"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "unlock": [
+      { "item": "mysticalcraft:infernium_ingot" }
+    ],
+    "result": {
+        "item": "mysticalcraft:infernium_axe"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "mysticalcraft:diamond_ore_feature_rule",
+      "places_feature": "mysticalcraft:diamond_ore_feature"
+    },
+    "conditions": {
+      "placement_pass": "underground_pass",
+      "minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:glacial_mountains"
+						},
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "mysticalcraft:ice_dunes"
+            },
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "mysticalcraft:schorched_plains"
+            },
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "mysticalcraft:volcanic_mountains"
+            },
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:corrupted_mountains"
+						},
+            {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mysticalcraft:corrupted_plains"
+						}
+					]
+				}
+			]
+    },
+    "distribution": {
+      "iterations": 1,
+      "coordinate_eval_order": "zxy",
+      "x": "math.random(-32, 32)",
+      "y": "math.random(-64, 16)",
+      "z": "math.random(-32, 32)"
+    }
+  }
+}

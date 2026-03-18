@@ -1,0 +1,36 @@
+
+{
+  "format_version": "1.20.0",
+  "minecraft:tree_feature": {
+    "description": {
+      "identifier": "mysticalcraft:dragonwood_tree_feature"
+    },
+
+    "base_block": [
+      "minecraft:end_stone"
+    ],
+
+    "may_replace": [
+      "minecraft:air"
+    ],
+
+    "trunk": {
+      "trunk_block": "mysticalcraft:dragonwood_log",
+      "trunk_height": [20, 26]
+    },
+
+    "fancy_canopy": {
+      "height": 5,
+      "radius": 6,
+      "leaf_block": "mysticalcraft:sculk_leaves"
+    },
+
+    "may_grow_through": [
+      "mysticalcraft:spirit_leaves"
+    ],
+
+    "may_grow_on": [
+      "minecraft:end_stone"
+    ]
+  }
+}
