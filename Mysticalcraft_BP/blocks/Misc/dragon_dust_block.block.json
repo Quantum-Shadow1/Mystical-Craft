@@ -16,7 +16,9 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 0
 			},
-			"minecraft:geometry": "geometry.dragon_dust_block",
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "dragon_dust_block",

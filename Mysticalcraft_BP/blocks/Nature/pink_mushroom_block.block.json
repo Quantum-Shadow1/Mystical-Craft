@@ -16,7 +16,9 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.pink_mushroom_block",
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "pink_mushroom_block",

@@ -21,7 +21,9 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.schorched_stone_bricks",
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "schorched_stone_bricks",

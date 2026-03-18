@@ -6,11 +6,7 @@
     "structure_name": "mystructure:S_Reg_Mush_13",
 
     "facing_direction": "random",
-    "constraints": 
-      { 
-        "unburied": {},
-        "grounded": {} 
-      },
+    "constraints": { "unburied": {}, "grounded": {} },
     "adjustment_radius": 8
   }
 }

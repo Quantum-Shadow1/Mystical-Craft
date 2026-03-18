@@ -16,11 +16,14 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.volcanic_ash",
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "volcanic_ash",
-					"render_method": "opaque"
+					"render_method": "opaque",
+					"isotropic": true
 				}
 			},
 			"minecraft:map_color": "#ffffff",

@@ -2,7 +2,7 @@
   "format_version": "1.21.110",
   "minecraft:biome": {
     "description": {
-      "identifier": "mysticalcraft:courrupted_mountains"
+      "identifier": "mysticalcraft:corrupted_mountains"
     },
     "components": {
       "minecraft:creature_spawn_probability": {
@@ -22,19 +22,19 @@
               {
                 "dimension": "minecraft:overworld",
                 "targets": ["minecraft:jagged_peaks"],
-                  "amount": 0.33,
+                  "amount": 0.50,
                   "noise_frequency_scale": 0.125 
               },
               {
                 "dimension": "minecraft:overworld",
                 "targets": ["minecraft:ice_mountains"],
-                  "amount": 0.33,
+                  "amount": 0.50,
                   "noise_frequency_scale": 0.125 
               },
               {
                 "dimension": "minecraft:overworld",
                 "targets": ["minecraft:stony_peaks"],
-                  "amount": 0.33,
+                  "amount": 0.50,
                   "noise_frequency_scale": 0.125 
               }
             ]
@@ -56,7 +56,15 @@
         }
       },
       "minecraft:tags": {
-        "tags": ["mysticalcraft:courrupted_mountains, minecraft:stony_peaks, minecraft:jagged_peaks"]
+        "tags": [
+          "mysticalcraft:corrupted_mountains",
+          "minecraft:overworld",
+          "minecraft:monster",
+          "minecraft:mountains",
+          "minecraft:stony_peaks",
+          "minecraft:jagged_peaks",
+          "minecraft:cold"
+        ]
       }
     }
   }

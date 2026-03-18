@@ -42,7 +42,7 @@
         "tags": [
 					"minecraft:is_tool",
 					"minecraft:is_axe",
-          "minecraft:iorn_tier",
+					"minecraft:iron_tier",
           "minecraft:transformable_items"
         ]
       }

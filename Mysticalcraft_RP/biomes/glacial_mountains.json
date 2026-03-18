@@ -18,10 +18,10 @@
         "volume_multiplier": 0
       },
     "minecraft:foliage_appearance": {
-        "color": "#e5e5ff"
+        "color": "#a8bab8"
     },
     "minecraft:grass_appearance": {
-      "color": "#e5e5ff"
+      "color": "#98aca8"
       }
     }
 

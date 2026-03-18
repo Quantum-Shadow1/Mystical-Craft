@@ -8,43 +8,33 @@
     "conditions": {
       "placement_pass": "surface_pass",
       "minecraft:biome_filter": [
-				{
-					"any_of": [
-						{
-							"test": "has_biome_tag",
-							"operator": "==",
-							"value": "mushroom_island"
-						},
-            {
-							"test": "has_biome_tag",
-							"operator": "==",
-							"value": "mushroom_island_shore"
-						},
-            {
-							"test": "has_biome_tag",
-							"operator": "==",
-							"value": "swampland"
-						},
-            {
-							"test": "has_biome_tag",
-							"operator": "==",
-							"value": "swampland_mutated"
-						},
+        {
+          "any_of": [
             {
               "test": "has_biome_tag",
               "operator": "==",
-              "value": "roofed_forest"
+              "value": "mooshroom_island"
+            },
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "swamp"
+            },
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "roofed"
             }
-					]
-				}
-			]
+          ]
+        }
+      ]
     },
     "distribution": {
-      "iterations": 50,
+      "iterations": 12,
       "coordinate_eval_order": "zxy",
-      "x": "math.random(0, 1024)",
+      "x": "math.random(-256, 256)",
       "y": "q.heightmap(v.worldx, v.worldz)",
-      "z": "math.random(0, 1024)"
+      "z": "math.random(-256, 256)"
     }
   }
 }

@@ -15,7 +15,7 @@
             }
           },
           { "direction": "up",
-            "cull_against_full_and_opaque": true, 
+            "cull_against_full_and_opaque": true,
             "condition": "same_block",
           "geometry_part": {
               "bone": "block",
@@ -24,7 +24,7 @@
             }
           },
           {"direction": "south",
-            "cull_against_full_and_opaque": true, 
+            "cull_against_full_and_opaque": true,
             "condition": "same_block",
           "geometry_part": {
               "bone": "block",
@@ -33,7 +33,7 @@
             }
           },
           { "direction": "north",
-            "cull_against_full_and_opaque": true, 
+            "cull_against_full_and_opaque": true,
             "condition": "same_block",
           "geometry_part": {
               "bone": "block",
@@ -42,7 +42,7 @@
             }
           },
           {"direction": "west",
-            "cull_against_full_and_opaque": true, 
+            "cull_against_full_and_opaque": true,
             "condition": "same_block",
           "geometry_part": {
               "bone": "block",
@@ -51,7 +51,7 @@
             }
           },
           { "direction": "east",
-            "cull_against_full_and_opaque": true, 
+            "cull_against_full_and_opaque": true,
             "condition": "same_block",
           "geometry_part": {
               "bone": "block",

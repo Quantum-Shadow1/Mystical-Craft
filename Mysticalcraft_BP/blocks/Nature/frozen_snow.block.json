@@ -16,11 +16,14 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.frozen_snow",
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "frozen_snow",
-					"render_method": "opaque"
+					"render_method": "opaque",
+					"isotropic": true
 				}
 			},
 			"minecraft:map_color": "#ffffff",

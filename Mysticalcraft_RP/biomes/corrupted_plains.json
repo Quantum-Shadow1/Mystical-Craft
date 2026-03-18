@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mysticalcraft:corrupted_plains"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#012A39"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft:fog_the_end"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#012A39"
+      },
+    "minecraft:biome_music": {
+        "volume_multiplier": 0
+      },
+    "minecraft:foliage_appearance": {
+        "color": "#1a4540"
+    },
+    "minecraft:grass_appearance": {
+      "color": "#3d6d60"
+      }
+    }
+
+  }
+}

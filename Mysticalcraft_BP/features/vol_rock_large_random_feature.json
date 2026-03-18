@@ -1,0 +1,18 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:weighted_random_feature": {
+    "description": {
+      "identifier": "mysticalcraft:vol_rock_large_random_feature"
+    },
+    "features": [
+      ["mysticalcraft:vol_rock_one_feature", 1],
+      ["mysticalcraft:vol_rock_two_feature", 1],
+      ["mysticalcraft:vol_rock_three_feature", 1],
+      ["mysticalcraft:vol_rock_four_feature", 1],
+      ["mysticalcraft:vol_rock_five_feature", 1],
+      ["mysticalcraft:vol_rock_six_feature", 1],
+      ["mysticalcraft:vol_rock_seven_feature", 1],
+      ["mysticalcraft:vol_rock_eight_feature", 1]
+    ]
+  }
+}

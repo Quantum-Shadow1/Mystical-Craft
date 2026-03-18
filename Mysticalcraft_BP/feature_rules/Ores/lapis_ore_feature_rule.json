@@ -38,7 +38,7 @@
             {
 							"test": "has_biome_tag",
 							"operator": "==",
-							"value": "mysticalcraft:courrupted_plains"
+							"value": "mysticalcraft:corrupted_plains"
 						}
 					]
 				}
@@ -47,9 +47,9 @@
     "distribution": {
       "iterations": 2,
       "coordinate_eval_order": "zxy",
-      "x": "math.random(0, 64)",
+      "x": "math.random(-32, 32)",
       "y": "math.random(-64, 64)",
-      "z": "math.random(0, 64)"
+      "z": "math.random(-32, 32)"
     }
   }
 }

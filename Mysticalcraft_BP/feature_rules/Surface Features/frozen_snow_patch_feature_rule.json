@@ -22,9 +22,9 @@
     "distribution": {
       "iterations": 8,
       "coordinate_eval_order": "zxy",
-      "x": "math.random(0, 32)",
+      "x": "math.random(-16, 16)",
       "y": "q.heightmap(v.worldx, v.worldz)",
-      "z": "math.random(0, 32)"
+      "z": "math.random(-16, 16)"
     }
   }
 }

@@ -46,7 +46,17 @@
               "sea_material": "minecraft:water" 
             } 
           },
-          "minecraft:tags": { "tags": [ "mysticalcraft:ice_dunes", "minecraft:desert" ] }
+          "minecraft:tags": {
+            "tags": [
+              "mysticalcraft:ice_dunes",
+              "minecraft:overworld",
+              "minecraft:monster",
+              "minecraft:desert",
+              "minecraft:frozen",
+              "minecraft:ice",
+              "minecraft:hills"
+            ]
+          }
         }
     } 
 }

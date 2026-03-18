@@ -6,7 +6,7 @@
     },
     "tags": ["furnace"],
     "input": {
-      "item": "mysticalcraft:cobbled_schorced_stone"
+      "item": "mysticalcraft:cobbled_schorched_stone"
     },
     "output": "mysticalcraft:schorched_stone",
     "experience": 0.15,

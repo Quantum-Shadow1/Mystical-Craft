@@ -21,12 +21,14 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 0.1
 			},
-			"minecraft:geometry": "geometry.schorched_dirt",
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "schorched_dirt",
-          "texture_random": true,
-					"render_method": "opaque"
+          "render_method": "opaque",
+					"isotropic": true
 				}
 			},
 			"minecraft:map_color": "#5f4a2b",

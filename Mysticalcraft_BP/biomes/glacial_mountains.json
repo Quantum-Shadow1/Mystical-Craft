@@ -50,7 +50,16 @@
         }
       },
       "minecraft:tags": {
-        "tags": ["mysticalcraft:glacial_mountains", "minecraft:frozen_peaks"]
+        "tags": [
+          "mysticalcraft:glacial_mountains",
+          "minecraft:overworld",
+          "minecraft:monster",
+          "minecraft:mountains",
+          "minecraft:frozen",
+          "minecraft:frozen_peaks",
+          "minecraft:cold",
+          "minecraft:ice"
+        ]
       }
     }
   }

@@ -46,7 +46,17 @@
               "sea_material": "minecraft:water" 
             } 
           },
-          "minecraft:tags": { "tags": [ "mysticalcraft:schorched_plains", "minecraft:plains" ] }
+          "minecraft:tags": {
+            "tags": [
+              "mysticalcraft:schorched_plains",
+              "minecraft:overworld",
+              "minecraft:monster",
+              "minecraft:animal",
+              "minecraft:plains",
+              "minecraft:forest",
+              "minecraft:warm"
+            ]
+          }
         }
     } 
 }

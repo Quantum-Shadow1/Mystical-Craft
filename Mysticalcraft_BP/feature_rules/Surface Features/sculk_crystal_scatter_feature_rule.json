@@ -13,23 +13,23 @@
 						{
 							"test": "has_biome_tag",
 							"operator": "==",
-							"value": "mysticalcraft:courrupted_mountains"
+							"value": "mysticalcraft:corrupted_mountains"
 						},
             {
 							"test": "has_biome_tag",
 							"operator": "==",
-							"value": "mysticalcraft:courrupted_plains"
+							"value": "mysticalcraft:corrupted_plains"
 						}
 					]
 				}
 			]
     },
     "distribution": {
-      "iterations": 10,
+      "iterations": 3,
       "coordinate_eval_order": "zxy",
-      "x": "math.random(0, 1024)",
+      "x": "math.random(-256, 256)",
       "y": "q.heightmap(v.worldx, v.worldz)",
-      "z": "math.random(0, 1024)"
+      "z": "math.random(-256, 256)"
     }
   }
 }

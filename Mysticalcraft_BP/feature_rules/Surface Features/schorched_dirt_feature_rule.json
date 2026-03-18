@@ -27,9 +27,9 @@
     "distribution": {
       "iterations": 2,
       "coordinate_eval_order": "zxy",
-      "x": "math.random(0, 8)",
+      "x": "math.random(-4, 4)",
       "y": "q.heightmap(v.worldx, v.worldz)",
-      "z": "math.random(0, 8)"
+      "z": "math.random(-4, 4)"
     }
   }
 }

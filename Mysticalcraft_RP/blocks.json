@@ -1,4 +1,4 @@
-{
+﻿{
 	"format_version": "1.21.0",
 	"orange_mushroom_block": {
 		"sound": "wood"
@@ -87,7 +87,7 @@
 	"sculk_leaves": {
 		"sound": "grass"
 	},
-	"cobbled_schorced_stone": {
+	"cobbled_schorched_stone": {
 		"sound": "stone"
 	},
 	"cobbled_iced_stone": {
@@ -302,6 +302,15 @@
 	},
 	"deepslate_echoite_ore": {
 		"sound": "deepslate"
+	},
+	"infernium_ore": {
+		"sound": "stone"
+	},
+	"deepslate_infernium_ore": {
+		"sound": "deepslate"
+	},
+	"nether_infernium_ore": {
+		"sound": "stone"
 	},
 	"echoite_block": {
 		"sound": "stone"

@@ -26,10 +26,12 @@
 				"destroy_chance_modifier": 20,
 				"catch_chance_modifier": 5
 			},
-			"minecraft:geometry": "geometry.charred_wood",
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "charred_wood",
+					"texture": "charred_log",
 					"render_method": "opaque"
 				}
 			},

@@ -17,7 +17,9 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 0
 			},
-			"minecraft:geometry": "geometry.echoite_dust_block",
+			"minecraft:geometry": {
+			  "identifier": "minecraft:geometry.full_block"
+			},
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "echoite_dust_block",
